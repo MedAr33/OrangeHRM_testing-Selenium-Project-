@@ -1,0 +1,509 @@
+10:38:23.266 INFO  TC_001_LoginDDT -Orange site opened
+10:38:25.552 INFO  TC_001_LoginDDT -username entered
+10:38:25.707 INFO  TC_001_LoginDDT -passeword entered
+10:38:27.280 INFO  TC_001_LoginDDT -login button pressed
+10:38:28.696 INFO  TC_001_LoginDDT -login passed : valid crendentials
+10:38:30.009 INFO  TC_001_LoginDDT -logout pressed
+10:38:30.242 INFO  TC_001_LoginDDT -username entered
+10:38:30.446 INFO  TC_001_LoginDDT -passeword entered
+10:38:31.580 INFO  TC_001_LoginDDT -login button pressed
+10:38:41.909 INFO  TC_001_LoginDDT -username entered
+10:38:42.087 INFO  TC_001_LoginDDT -passeword entered
+10:38:43.082 INFO  TC_001_LoginDDT -login button pressed
+10:38:53.358 INFO  TC_001_LoginDDT -username entered
+10:38:53.540 INFO  TC_001_LoginDDT -passeword entered
+10:38:54.564 INFO  TC_001_LoginDDT -login button pressed
+10:42:13.152 INFO  TC_001_LoginDDT -Orange site opened
+10:42:15.600 INFO  TC_001_LoginDDT -username entered
+10:42:15.798 INFO  TC_001_LoginDDT -passeword entered
+10:42:17.575 INFO  TC_001_LoginDDT -login button pressed
+10:42:18.735 INFO  TC_001_LoginDDT -login passed : valid crendentials
+10:42:19.875 INFO  TC_001_LoginDDT -logout pressed
+10:42:20.034 INFO  TC_001_LoginDDT -username entered
+10:42:20.137 INFO  TC_001_LoginDDT -passeword entered
+10:42:21.274 INFO  TC_001_LoginDDT -login button pressed
+10:42:31.671 INFO  TC_001_LoginDDT -username entered
+10:42:31.829 INFO  TC_001_LoginDDT -passeword entered
+10:42:32.942 INFO  TC_001_LoginDDT -login button pressed
+10:42:43.276 INFO  TC_001_LoginDDT -username entered
+10:42:43.452 INFO  TC_001_LoginDDT -passeword entered
+10:42:44.529 INFO  TC_001_LoginDDT -login button pressed
+10:44:13.528 INFO  TC_001_LoginDDT -Orange site opened
+10:44:15.946 INFO  TC_001_LoginDDT -username entered
+10:44:16.080 INFO  TC_001_LoginDDT -passeword entered
+10:44:17.856 INFO  TC_001_LoginDDT -login button pressed
+10:44:19.405 INFO  TC_001_LoginDDT -login passed : valid crendentials
+10:44:20.684 INFO  TC_001_LoginDDT -logout pressed
+10:44:20.916 INFO  TC_001_LoginDDT -username entered
+10:44:21.117 INFO  TC_001_LoginDDT -passeword entered
+10:44:22.310 INFO  TC_001_LoginDDT -login button pressed
+10:44:32.699 INFO  TC_001_LoginDDT -username entered
+10:44:32.880 INFO  TC_001_LoginDDT -passeword entered
+10:44:33.920 INFO  TC_001_LoginDDT -login button pressed
+10:44:44.333 INFO  TC_001_LoginDDT -username entered
+10:44:44.524 INFO  TC_001_LoginDDT -passeword entered
+10:44:45.613 INFO  TC_001_LoginDDT -login button pressed
+10:45:40.002 INFO  TC_001_LoginDDT -Orange site opened
+10:45:41.912 INFO  TC_001_LoginDDT -username entered
+10:45:42.037 INFO  TC_001_LoginDDT -passeword entered
+10:45:43.829 INFO  TC_001_LoginDDT -login button pressed
+10:45:43.996 INFO  TC_001_LoginDDT -login passed : valid crendentials
+10:45:46.530 INFO  TC_001_LoginDDT -logout pressed
+10:45:46.748 INFO  TC_001_LoginDDT -username entered
+10:45:46.962 INFO  TC_001_LoginDDT -passeword entered
+10:45:48.131 INFO  TC_001_LoginDDT -login button pressed
+10:45:58.502 INFO  TC_001_LoginDDT -username entered
+10:45:58.689 INFO  TC_001_LoginDDT -passeword entered
+10:45:59.779 INFO  TC_001_LoginDDT -login button pressed
+10:46:10.164 INFO  TC_001_LoginDDT -username entered
+10:46:10.370 INFO  TC_001_LoginDDT -passeword entered
+10:46:11.454 INFO  TC_001_LoginDDT -login button pressed
+10:47:50.790 INFO  TC_001_LoginDDT -Orange site opened
+10:47:52.984 INFO  TC_001_LoginDDT -username entered
+10:47:53.119 INFO  TC_001_LoginDDT -passeword entered
+10:47:54.815 INFO  TC_001_LoginDDT -login button pressed
+10:47:55.007 INFO  TC_001_LoginDDT -login passed : valid crendentials
+10:47:57.481 INFO  TC_001_LoginDDT -logout pressed
+10:47:57.694 INFO  TC_001_LoginDDT -username entered
+10:47:57.894 INFO  TC_001_LoginDDT -passeword entered
+10:47:59.087 INFO  TC_001_LoginDDT -login button pressed
+10:48:09.464 INFO  TC_001_LoginDDT -username entered
+10:48:09.615 INFO  TC_001_LoginDDT -passeword entered
+10:48:10.705 INFO  TC_001_LoginDDT -login button pressed
+10:48:21.097 INFO  TC_001_LoginDDT -username entered
+10:48:21.295 INFO  TC_001_LoginDDT -passeword entered
+10:48:22.377 INFO  TC_001_LoginDDT -login button pressed
+10:49:34.926 INFO  TC_001_LoginDDT -Orange site opened
+10:49:37.578 INFO  TC_001_LoginDDT -username entered
+10:49:37.770 INFO  TC_001_LoginDDT -passeword entered
+10:49:39.689 INFO  TC_001_LoginDDT -login button pressed
+10:49:39.880 INFO  TC_001_LoginDDT -login passed : valid crendentials
+10:49:42.434 INFO  TC_001_LoginDDT -logout pressed
+10:49:42.656 INFO  TC_001_LoginDDT -username entered
+10:49:42.889 INFO  TC_001_LoginDDT -passeword entered
+10:49:44.070 INFO  TC_001_LoginDDT -login button pressed
+10:49:54.397 INFO  TC_001_LoginDDT -username entered
+10:49:54.563 INFO  TC_001_LoginDDT -passeword entered
+10:49:55.566 INFO  TC_001_LoginDDT -login button pressed
+10:50:05.929 INFO  TC_001_LoginDDT -username entered
+10:50:06.128 INFO  TC_001_LoginDDT -passeword entered
+10:50:07.166 INFO  TC_001_LoginDDT -login button pressed
+10:52:18.115 INFO  TC_001_LoginDDT -Orange site opened
+10:52:20.504 INFO  TC_001_LoginDDT -username entered
+10:52:20.686 INFO  TC_001_LoginDDT -passeword entered
+10:52:24.264 INFO  TC_001_LoginDDT -login button pressed
+10:52:24.689 INFO  TC_001_LoginDDT -login passed : valid crendentials
+10:52:25.918 INFO  TC_001_LoginDDT -logout pressed
+10:52:26.091 INFO  TC_001_LoginDDT -username entered
+10:52:26.288 INFO  TC_001_LoginDDT -passeword entered
+10:52:27.354 INFO  TC_001_LoginDDT -login button pressed
+10:52:37.759 INFO  TC_001_LoginDDT -username entered
+10:52:37.943 INFO  TC_001_LoginDDT -passeword entered
+10:52:39.181 INFO  TC_001_LoginDDT -login button pressed
+10:52:49.592 INFO  TC_001_LoginDDT -username entered
+10:52:49.770 INFO  TC_001_LoginDDT -passeword entered
+10:52:50.870 INFO  TC_001_LoginDDT -login button pressed
+10:58:37.374 INFO  TC_001_LoginDDT -Orange site opened
+10:58:40.208 INFO  TC_001_LoginDDT -username entered
+10:58:40.372 INFO  TC_001_LoginDDT -passeword entered
+10:58:42.034 INFO  TC_001_LoginDDT -login button pressed
+11:00:02.455 INFO  TC_001_LoginDDT -Orange site opened
+11:00:04.866 INFO  TC_001_LoginDDT -username entered
+11:00:05.007 INFO  TC_001_LoginDDT -passeword entered
+11:00:05.712 INFO  TC_001_LoginDDT -login button pressed
+11:00:16.012 INFO  TC_001_LoginDDT -username entered
+11:00:16.242 INFO  TC_001_LoginDDT -passeword entered
+11:00:17.779 INFO  TC_001_LoginDDT -login button pressed
+11:00:28.164 INFO  TC_001_LoginDDT -username entered
+11:00:28.359 INFO  TC_001_LoginDDT -passeword entered
+11:00:29.418 INFO  TC_001_LoginDDT -login button pressed
+11:00:39.803 INFO  TC_001_LoginDDT -username entered
+11:00:39.989 INFO  TC_001_LoginDDT -passeword entered
+11:00:41.005 INFO  TC_001_LoginDDT -login button pressed
+11:03:52.265 INFO  TC_001_LoginDDT -Orange site opened
+11:03:54.884 INFO  TC_001_LoginDDT -username entered
+11:03:55.062 INFO  TC_001_LoginDDT -passeword entered
+11:03:56.787 INFO  TC_001_LoginDDT -login button pressed
+11:07:09.785 INFO  TC_001_LoginDDT -Orange site opened
+11:07:12.105 INFO  TC_001_LoginDDT -username entered
+11:07:12.262 INFO  TC_001_LoginDDT -passeword entered
+11:07:20.986 INFO  TC_001_LoginDDT -login button pressed
+11:07:21.227 INFO  TC_001_LoginDDT -login failed : invalid credentials
+11:09:05.260 INFO  TC_001_LoginDDT -Orange site opened
+11:09:07.434 INFO  TC_001_LoginDDT -username entered
+11:09:07.591 INFO  TC_001_LoginDDT -passeword entered
+11:09:12.112 INFO  TC_001_LoginDDT -login button pressed
+11:09:12.364 INFO  TC_001_LoginDDT -login passed : valid crendentials
+11:09:13.532 INFO  TC_001_LoginDDT -logout pressed
+11:09:13.704 INFO  TC_001_LoginDDT -username entered
+11:09:13.839 INFO  TC_001_LoginDDT -passeword entered
+11:09:15.036 INFO  TC_001_LoginDDT -login button pressed
+11:09:25.441 INFO  TC_001_LoginDDT -username entered
+11:09:25.597 INFO  TC_001_LoginDDT -passeword entered
+11:09:26.609 INFO  TC_001_LoginDDT -login button pressed
+11:09:36.943 INFO  TC_001_LoginDDT -username entered
+11:09:37.123 INFO  TC_001_LoginDDT -passeword entered
+11:09:38.177 INFO  TC_001_LoginDDT -login button pressed
+11:11:51.347 INFO  TC_001_LoginDDT -Orange site opened
+11:11:53.602 INFO  TC_001_LoginDDT -username entered
+11:11:53.741 INFO  TC_001_LoginDDT -passeword entered
+11:11:55.265 INFO  TC_001_LoginDDT -login button pressed
+11:11:56.676 INFO  TC_001_LoginDDT -login passed : valid crendentials
+11:12:08.401 INFO  TC_001_LoginDDT -logout pressed
+11:12:08.561 INFO  TC_001_LoginDDT -username entered
+11:12:08.713 INFO  TC_001_LoginDDT -passeword entered
+11:12:13.839 INFO  TC_001_LoginDDT -login button pressed
+11:12:24.068 INFO  TC_001_LoginDDT -username entered
+11:12:24.240 INFO  TC_001_LoginDDT -passeword entered
+11:12:29.405 INFO  TC_001_LoginDDT -login button pressed
+11:12:39.622 INFO  TC_001_LoginDDT -username entered
+11:12:39.744 INFO  TC_001_LoginDDT -passeword entered
+11:12:44.834 INFO  TC_001_LoginDDT -login button pressed
+11:18:45.974 INFO  TC_001_LoginDDT -Orange site opened
+11:18:48.192 INFO  TC_001_LoginDDT -username entered
+11:18:48.381 INFO  TC_001_LoginDDT -passeword entered
+11:18:56.531 INFO  TC_001_LoginDDT -login button pressed
+11:18:56.726 INFO  TC_001_LoginDDT -login passed : valid credentials
+11:21:32.837 INFO  TC_001_LoginDDT -Orange site opened
+11:21:35.479 INFO  TC_001_LoginDDT -username entered
+11:21:35.633 INFO  TC_001_LoginDDT -passeword entered
+11:21:37.249 INFO  TC_001_LoginDDT -login button pressed
+11:21:37.405 INFO  TC_001_LoginDDT -login passed : valid credentials
+11:21:39.962 INFO  TC_001_LoginDDT -username entered
+11:21:40.122 INFO  TC_001_LoginDDT -passeword entered
+11:21:41.332 INFO  TC_001_LoginDDT -login button pressed
+11:21:46.727 INFO  TC_001_LoginDDT -username entered
+11:21:46.940 INFO  TC_001_LoginDDT -passeword entered
+11:21:48.233 INFO  TC_001_LoginDDT -login button pressed
+11:21:53.515 INFO  TC_001_LoginDDT -username entered
+11:21:53.715 INFO  TC_001_LoginDDT -passeword entered
+11:21:54.777 INFO  TC_001_LoginDDT -login button pressed
+11:24:45.275 INFO  TC_001_LoginDDT -Orange site opened
+11:24:47.411 INFO  TC_001_LoginDDT -username entered
+11:24:47.558 INFO  TC_001_LoginDDT -passeword entered
+11:24:49.142 INFO  TC_001_LoginDDT -login button pressed
+11:24:50.433 INFO  TC_001_LoginDDT -login passed : valid credentials
+11:24:52.056 INFO  TC_001_LoginDDT -username entered
+11:24:52.313 INFO  TC_001_LoginDDT -passeword entered
+11:24:53.472 INFO  TC_001_LoginDDT -login button pressed
+11:24:58.845 INFO  TC_001_LoginDDT -username entered
+11:24:58.990 INFO  TC_001_LoginDDT -passeword entered
+11:25:00.052 INFO  TC_001_LoginDDT -login button pressed
+11:27:11.583 INFO  TC_001_LoginDDT -Orange site opened
+11:27:14.280 INFO  TC_001_LoginDDT -username entered
+11:27:14.453 INFO  TC_001_LoginDDT -passeword entered
+11:27:15.310 INFO  TC_001_LoginDDT -login button pressed
+11:27:20.628 INFO  TC_001_LoginDDT -username entered
+11:27:20.848 INFO  TC_001_LoginDDT -passeword entered
+11:27:22.276 INFO  TC_001_LoginDDT -login button pressed
+11:27:27.599 INFO  TC_001_LoginDDT -username entered
+11:27:27.766 INFO  TC_001_LoginDDT -passeword entered
+11:27:28.847 INFO  TC_001_LoginDDT -login button pressed
+11:27:34.178 INFO  TC_001_LoginDDT -username entered
+11:27:34.368 INFO  TC_001_LoginDDT -passeword entered
+11:27:37.935 INFO  TC_001_LoginDDT -login button pressed
+11:27:38.132 INFO  TC_001_LoginDDT -login passed : valid credentials
+11:29:27.941 INFO  TC_001_LoginDDT -Orange site opened
+11:29:30.664 INFO  TC_001_LoginDDT -username entered
+11:29:30.936 INFO  TC_001_LoginDDT -passeword entered
+11:29:31.790 INFO  TC_001_LoginDDT -login button pressed
+11:29:37.057 INFO  TC_001_LoginDDT -username entered
+11:29:37.250 INFO  TC_001_LoginDDT -passeword entered
+11:29:38.632 INFO  TC_001_LoginDDT -login button pressed
+11:29:44.011 INFO  TC_001_LoginDDT -username entered
+11:29:44.176 INFO  TC_001_LoginDDT -passeword entered
+11:29:45.239 INFO  TC_001_LoginDDT -login button pressed
+11:35:14.602 INFO  TC_001_LoginDDT -Orange site opened
+11:35:16.930 INFO  TC_001_LoginDDT -username entered
+11:35:17.134 INFO  TC_001_LoginDDT -passeword entered
+11:35:25.564 INFO  TC_001_LoginDDT -login button pressed
+11:36:16.804 INFO  TC_001_LoginDDT -Orange site opened
+11:36:18.854 INFO  TC_001_LoginDDT -username entered
+11:36:19.032 INFO  TC_001_LoginDDT -passeword entered
+11:41:32.282 INFO  TC_001_LoginDDT -Orange site opened
+11:41:34.357 INFO  TC_001_LoginDDT -username entered
+11:41:34.512 INFO  TC_001_LoginDDT -passeword entered
+11:41:37.641 INFO  TC_001_LoginDDT -login button pressed
+11:41:37.667 INFO  TC_001_LoginDDT -login passed : valid credentials
+11:41:39.348 INFO  TC_001_LoginDDT -username entered
+11:41:39.545 INFO  TC_001_LoginDDT -passeword entered
+11:41:40.948 INFO  TC_001_LoginDDT -login button pressed
+11:41:40.973 INFO  TC_001_LoginDDT -login failed : invalid credentials
+11:41:41.214 INFO  TC_001_LoginDDT -username entered
+11:41:41.380 INFO  TC_001_LoginDDT -passeword entered
+11:41:42.090 INFO  TC_001_LoginDDT -login button pressed
+11:41:42.149 INFO  TC_001_LoginDDT -login failed : invalid credentials
+11:41:42.460 INFO  TC_001_LoginDDT -username entered
+11:41:42.752 INFO  TC_001_LoginDDT -passeword entered
+11:41:43.436 INFO  TC_001_LoginDDT -login button pressed
+11:41:43.460 INFO  TC_001_LoginDDT -login failed : invalid credentials
+13:09:36.518 INFO  TC_001_LoginDDT -Orange site opened
+13:09:48.803 INFO  TC_001_LoginDDT -username entered
+13:09:49.071 INFO  TC_001_LoginDDT -passeword entered
+13:09:50.597 INFO  TC_001_LoginDDT -login button pressed
+13:09:50.640 INFO  TC_001_LoginDDT -login passed : valid credentials 
+ Myinfo pageis notdisplayed !
+13:09:51.905 INFO  TC_001_LoginDDT -username entered
+13:09:52.187 INFO  TC_001_LoginDDT -passeword entered
+13:09:54.486 INFO  TC_001_LoginDDT -login button pressed
+13:09:54.512 INFO  TC_001_LoginDDT -login passed : valid credentials 
+ Myinfo pageis notdisplayed !
+13:09:58.644 INFO  TC_001_LoginDDT -username entered
+13:09:58.890 INFO  TC_001_LoginDDT -passeword entered
+13:10:00.247 INFO  TC_001_LoginDDT -login button pressed
+13:10:00.321 INFO  TC_001_LoginDDT -login passed : valid credentials 
+ Myinfo pageis notdisplayed !
+13:10:01.127 INFO  TC_001_LoginDDT -username entered
+13:10:01.300 INFO  TC_001_LoginDDT -passeword entered
+13:10:02.014 INFO  TC_001_LoginDDT -login button pressed
+13:10:02.075 INFO  TC_001_LoginDDT -login passed : valid credentials 
+ Myinfo pageis notdisplayed !
+13:27:28.167 INFO  TC_001_LoginDDT -Orange site opened
+13:27:41.315 INFO  TC_001_LoginDDT -username entered
+13:27:41.565 INFO  TC_001_LoginDDT -passeword entered
+13:27:44.660 INFO  TC_001_LoginDDT -login button pressed
+13:27:44.691 INFO  TC_001_LoginDDT -login passed : valid credentials 
+ Myinfo pageis notdisplayed !
+13:30:43.756 INFO  TC_001_LoginDDT -Orange site opened
+13:30:45.850 INFO  TC_001_LoginDDT -username entered
+13:30:45.988 INFO  TC_001_LoginDDT -passeword entered
+13:30:48.464 INFO  TC_001_LoginDDT -login button pressed
+13:30:48.502 INFO  TC_001_LoginDDT -login passed : valid credentials 
+ Myinfo pageis notdisplayed !
+13:30:51.109 INFO  TC_001_LoginDDT -username entered
+13:30:51.308 INFO  TC_001_LoginDDT -passeword entered
+13:30:52.887 INFO  TC_001_LoginDDT -login button pressed
+13:30:52.913 INFO  TC_001_LoginDDT -login passed : valid credentials 
+ Myinfo pageis notdisplayed !
+13:30:58.892 INFO  TC_001_LoginDDT -username entered
+13:30:59.103 INFO  TC_001_LoginDDT -passeword entered
+13:31:00.275 INFO  TC_001_LoginDDT -login button pressed
+13:31:00.360 INFO  TC_001_LoginDDT -login passed : valid credentials 
+ Myinfo pageis notdisplayed !
+13:31:06.462 INFO  TC_001_LoginDDT -username entered
+13:31:06.680 INFO  TC_001_LoginDDT -passeword entered
+13:31:07.710 INFO  TC_001_LoginDDT -login button pressed
+13:31:07.781 INFO  TC_001_LoginDDT -login passed : valid credentials 
+ Myinfo pageis notdisplayed !
+13:34:25.577 INFO  TC_001_LoginDDT -Orange site opened
+13:34:28.333 INFO  TC_001_LoginDDT -username entered
+13:34:28.582 INFO  TC_001_LoginDDT -passeword entered
+13:34:30.749 INFO  TC_001_LoginDDT -login button pressed
+13:34:30.770 INFO  TC_001_LoginDDT -login passed : valid credentials 
+ Myinfo page is not displayed !
+13:34:32.490 INFO  TC_001_LoginDDT -username entered
+13:34:32.678 INFO  TC_001_LoginDDT -passeword entered
+13:34:33.915 INFO  TC_001_LoginDDT -login button pressed
+13:34:33.953 INFO  TC_001_LoginDDT -login passed : valid credentials 
+ Myinfo page is not displayed !
+13:34:39.927 INFO  TC_001_LoginDDT -username entered
+13:34:40.120 INFO  TC_001_LoginDDT -passeword entered
+13:34:41.185 INFO  TC_001_LoginDDT -login button pressed
+13:34:41.246 INFO  TC_001_LoginDDT -login passed : valid credentials 
+ Myinfo page is not displayed !
+13:34:47.185 INFO  TC_001_LoginDDT -username entered
+13:34:47.352 INFO  TC_001_LoginDDT -passeword entered
+13:34:48.079 INFO  TC_001_LoginDDT -login button pressed
+13:34:48.154 INFO  TC_001_LoginDDT -login passed : valid credentials 
+ Myinfo page is not displayed !
+13:36:55.054 INFO  TC_001_LoginDDT -Orange site opened
+13:36:57.406 INFO  TC_001_LoginDDT -username entered
+13:36:57.581 INFO  TC_001_LoginDDT -passeword entered
+13:36:59.185 INFO  TC_001_LoginDDT -login button pressed
+13:36:59.209 INFO  TC_001_LoginDDT -login failed : invalid credentials
+13:38:43.327 INFO  TC_001_LoginDDT -Orange site opened
+13:38:45.524 INFO  TC_001_LoginDDT -username entered
+13:38:45.672 INFO  TC_001_LoginDDT -passeword entered
+13:38:47.456 INFO  TC_001_LoginDDT -login button pressed
+13:38:47.514 INFO  TC_001_LoginDDT -login passed : valid credentials 
+ Myinfo page is not displayed !
+13:38:50.029 INFO  TC_001_LoginDDT -username entered
+13:38:50.270 INFO  TC_001_LoginDDT -passeword entered
+13:38:51.506 INFO  TC_001_LoginDDT -login button pressed
+13:38:51.522 INFO  TC_001_LoginDDT -login failed : invalid credentials
+13:38:51.817 INFO  TC_001_LoginDDT -username entered
+13:38:52.058 INFO  TC_001_LoginDDT -passeword entered
+13:38:52.739 INFO  TC_001_LoginDDT -login button pressed
+13:38:52.797 INFO  TC_001_LoginDDT -login failed : invalid credentials
+13:38:52.970 INFO  TC_001_LoginDDT -username entered
+13:38:53.142 INFO  TC_001_LoginDDT -passeword entered
+13:38:54.139 INFO  TC_001_LoginDDT -login button pressed
+13:38:54.154 INFO  TC_001_LoginDDT -login failed : invalid credentials
+14:38:59.079 INFO  TC_001_LoginDDT -Orange site opened
+14:39:03.586 INFO  TC_001_LoginDDT -username entered
+14:39:03.767 INFO  TC_001_LoginDDT -passeword entered
+14:39:05.777 INFO  TC_001_LoginDDT -login button pressed
+14:39:06.030 INFO  TC_001_LoginDDT -login passed : valid credentials 
+ Myinfo page is not displayed !
+14:39:08.670 INFO  TC_001_LoginDDT -username entered
+14:39:08.864 INFO  TC_001_LoginDDT -passeword entered
+14:39:10.100 INFO  TC_001_LoginDDT -login button pressed
+14:39:15.525 INFO  TC_001_LoginDDT -username entered
+14:39:15.744 INFO  TC_001_LoginDDT -passeword entered
+14:39:16.833 INFO  TC_001_LoginDDT -login button pressed
+14:39:22.078 INFO  TC_001_LoginDDT -username entered
+14:39:22.254 INFO  TC_001_LoginDDT -passeword entered
+14:39:22.958 INFO  TC_001_LoginDDT -login button pressed
+14:42:10.495 INFO  TC_001_LoginDDT -Orange site opened
+14:42:12.820 INFO  TC_001_LoginDDT -username entered
+14:42:12.976 INFO  TC_001_LoginDDT -passeword entered
+14:42:14.765 INFO  TC_001_LoginDDT -login button pressed
+14:42:14.804 INFO  TC_001_LoginDDT -login passed : valid credentials 
+ Myinfo page is not displayed !
+14:42:17.121 INFO  TC_001_LoginDDT -username entered
+14:42:17.376 INFO  TC_001_LoginDDT -passeword entered
+14:42:18.562 INFO  TC_001_LoginDDT -login button pressed
+14:42:18.576 INFO  TC_001_LoginDDT -login failed : invalid credentials
+14:42:18.841 INFO  TC_001_LoginDDT -username entered
+14:42:19.052 INFO  TC_001_LoginDDT -passeword entered
+14:42:19.793 INFO  TC_001_LoginDDT -login button pressed
+14:42:19.810 INFO  TC_001_LoginDDT -login failed : invalid credentials
+14:42:20.066 INFO  TC_001_LoginDDT -username entered
+14:42:20.266 INFO  TC_001_LoginDDT -passeword entered
+14:42:21.333 INFO  TC_001_LoginDDT -login button pressed
+14:42:21.368 INFO  TC_001_LoginDDT -login failed : invalid credentials
+09:09:08.255 INFO  TC_001_LoginDDT -Orange site opened
+09:09:29.375 INFO  TC_001_LoginDDT -username entered
+09:09:29.654 INFO  TC_001_LoginDDT -passeword entered
+09:09:32.304 INFO  TC_001_LoginDDT -login button pressed
+09:09:32.320 INFO  TC_001_LoginDDT -login failed : invalid credentials
+09:09:32.739 INFO  TC_001_LoginDDT -username entered
+09:09:32.968 INFO  TC_001_LoginDDT -passeword entered
+09:09:34.135 INFO  TC_001_LoginDDT -login button pressed
+09:09:34.166 INFO  TC_001_LoginDDT -login failed : invalid credentials
+09:09:34.507 INFO  TC_001_LoginDDT -username entered
+09:09:34.769 INFO  TC_001_LoginDDT -passeword entered
+09:09:35.532 INFO  TC_001_LoginDDT -login button pressed
+09:09:35.555 INFO  TC_001_LoginDDT -login failed : invalid credentials
+09:09:35.858 INFO  TC_001_LoginDDT -username entered
+09:09:36.089 INFO  TC_001_LoginDDT -passeword entered
+09:09:36.846 INFO  TC_001_LoginDDT -login button pressed
+09:09:36.901 INFO  TC_001_LoginDDT -login failed : invalid credentials
+09:14:11.544 INFO  TC_001_LoginDDT -Orange site opened
+09:14:18.210 INFO  TC_001_LoginDDT -username entered
+09:14:18.413 INFO  TC_001_LoginDDT -passeword entered
+09:14:21.230 INFO  TC_001_LoginDDT -login button pressed
+09:14:21.270 INFO  TC_001_LoginDDT -login passed : valid credentials 
+ Myinfo page is not displayed !
+09:14:23.858 INFO  TC_001_LoginDDT -username entered
+09:14:24.094 INFO  TC_001_LoginDDT -passeword entered
+09:14:25.330 INFO  TC_001_LoginDDT -login button pressed
+09:14:25.343 INFO  TC_001_LoginDDT -login failed : invalid credentials
+09:14:25.587 INFO  TC_001_LoginDDT -username entered
+09:14:25.789 INFO  TC_001_LoginDDT -passeword entered
+09:14:26.575 INFO  TC_001_LoginDDT -login button pressed
+09:14:26.601 INFO  TC_001_LoginDDT -login failed : invalid credentials
+09:14:26.847 INFO  TC_001_LoginDDT -username entered
+09:14:27.171 INFO  TC_001_LoginDDT -passeword entered
+09:14:28.411 INFO  TC_001_LoginDDT -login button pressed
+09:14:28.472 INFO  TC_001_LoginDDT -login failed : invalid credentials
+09:33:01.251 INFO  TC_001_LoginDDT -Orange site opened
+09:33:26.308 INFO  TC_001_LoginDDT -username entered
+09:33:26.565 INFO  TC_001_LoginDDT -passeword entered
+09:33:29.230 INFO  TC_001_LoginDDT -login button pressed
+09:33:29.268 INFO  TC_001_LoginDDT -login passed : valid credentials 
+ Myinfo page is not displayed !
+09:33:33.308 INFO  TC_001_LoginDDT -username entered
+09:33:33.503 INFO  TC_001_LoginDDT -passeword entered
+09:33:34.793 INFO  TC_001_LoginDDT -login button pressed
+09:33:34.805 INFO  TC_001_LoginDDT -login failed : invalid credentials
+09:33:35.092 INFO  TC_001_LoginDDT -username entered
+09:33:35.286 INFO  TC_001_LoginDDT -passeword entered
+09:33:36.013 INFO  TC_001_LoginDDT -login button pressed
+09:33:36.036 INFO  TC_001_LoginDDT -login failed : invalid credentials
+09:33:36.278 INFO  TC_001_LoginDDT -username entered
+09:33:36.445 INFO  TC_001_LoginDDT -passeword entered
+09:33:37.099 INFO  TC_001_LoginDDT -login button pressed
+09:33:37.110 INFO  TC_001_LoginDDT -login failed : invalid credentials
+09:39:21.888 INFO  TC_001_LoginDDT -Orange site opened
+09:39:30.499 INFO  TC_001_LoginDDT -username entered
+09:39:30.725 INFO  TC_001_LoginDDT -passeword entered
+09:39:33.333 INFO  TC_001_LoginDDT -login button pressed
+09:39:33.382 INFO  TC_001_LoginDDT -login passed : valid credentials 
+ Myinfo page is not displayed !
+09:39:35.687 INFO  TC_001_LoginDDT -username entered
+09:39:35.891 INFO  TC_001_LoginDDT -passeword entered
+09:39:37.048 INFO  TC_001_LoginDDT -login button pressed
+09:39:37.062 INFO  TC_001_LoginDDT -login failed : invalid credentials
+09:39:37.305 INFO  TC_001_LoginDDT -username entered
+09:39:37.493 INFO  TC_001_LoginDDT -passeword entered
+09:39:38.221 INFO  TC_001_LoginDDT -login button pressed
+09:39:38.253 INFO  TC_001_LoginDDT -login failed : invalid credentials
+09:39:38.470 INFO  TC_001_LoginDDT -username entered
+09:39:38.655 INFO  TC_001_LoginDDT -passeword entered
+09:39:39.369 INFO  TC_001_LoginDDT -login button pressed
+09:39:39.414 INFO  TC_001_LoginDDT -login failed : invalid credentials
+09:42:37.079 INFO  TC_001_LoginDDT -Orange site opened
+09:42:39.485 INFO  TC_001_LoginDDT -username entered
+09:42:39.632 INFO  TC_001_LoginDDT -passeword entered
+09:42:41.333 INFO  TC_001_LoginDDT -login button pressed
+09:42:41.375 INFO  TC_001_LoginDDT -login passed : valid credentials 
+ Myinfo page is not displayed !
+09:42:43.712 INFO  TC_001_LoginDDT -username entered
+09:42:43.893 INFO  TC_001_LoginDDT -passeword entered
+09:42:45.008 INFO  TC_001_LoginDDT -login button pressed
+09:42:45.032 INFO  TC_001_LoginDDT -login failed : invalid credentials
+09:42:45.287 INFO  TC_001_LoginDDT -username entered
+09:42:45.472 INFO  TC_001_LoginDDT -passeword entered
+09:42:46.204 INFO  TC_001_LoginDDT -login button pressed
+09:42:46.226 INFO  TC_001_LoginDDT -login failed : invalid credentials
+09:42:46.430 INFO  TC_001_LoginDDT -username entered
+09:42:46.658 INFO  TC_001_LoginDDT -passeword entered
+09:42:47.729 INFO  TC_001_LoginDDT -login button pressed
+09:42:47.799 INFO  TC_001_LoginDDT -login failed : invalid credentials
+09:23:41.450 INFO  TC_001_LoginDDT -Orange site opened
+09:24:19.926 INFO  TC_001_LoginDDT -username entered
+09:24:20.206 INFO  TC_001_LoginDDT -passeword entered
+09:24:23.780 INFO  TC_001_LoginDDT -login button pressed
+09:24:23.819 INFO  TC_001_LoginDDT -login passed : valid credentials 
+ Myinfo page is not displayed !
+09:24:29.484 INFO  TC_001_LoginDDT -username entered
+09:24:29.709 INFO  TC_001_LoginDDT -passeword entered
+09:24:31.545 INFO  TC_001_LoginDDT -login button pressed
+09:24:31.561 INFO  TC_001_LoginDDT -login failed : invalid credentials
+09:24:31.845 INFO  TC_001_LoginDDT -username entered
+09:24:32.097 INFO  TC_001_LoginDDT -passeword entered
+09:24:32.699 INFO  TC_001_LoginDDT -login button pressed
+09:24:32.712 INFO  TC_001_LoginDDT -login failed : invalid credentials
+09:24:32.888 INFO  TC_001_LoginDDT -username entered
+09:24:33.182 INFO  TC_001_LoginDDT -passeword entered
+09:24:34.311 INFO  TC_001_LoginDDT -login button pressed
+09:24:34.339 INFO  TC_001_LoginDDT -login failed : invalid credentials
+11:50:18.246 INFO  TC_001_LoginDDT -Orange site opened
+11:56:20.868 INFO  TC_001_LoginDDT -Orange site opened
+11:56:30.316 INFO  TC_001_LoginDDT -username entered
+11:56:30.502 INFO  TC_001_LoginDDT -passeword entered
+11:56:32.025 INFO  TC_001_LoginDDT -login button pressed
+11:56:32.045 INFO  TC_001_LoginDDT -login failed : invalid credentials
+11:56:32.298 INFO  TC_001_LoginDDT -username entered
+11:56:32.493 INFO  TC_001_LoginDDT -passeword entered
+11:56:33.536 INFO  TC_001_LoginDDT -login button pressed
+11:56:33.588 INFO  TC_001_LoginDDT -login failed : invalid credentials
+11:56:33.818 INFO  TC_001_LoginDDT -username entered
+11:56:33.994 INFO  TC_001_LoginDDT -passeword entered
+11:56:34.769 INFO  TC_001_LoginDDT -login button pressed
+11:56:34.849 INFO  TC_001_LoginDDT -login failed : invalid credentials
+11:56:35.115 INFO  TC_001_LoginDDT -username entered
+11:56:35.315 INFO  TC_001_LoginDDT -passeword entered
+11:56:36.054 INFO  TC_001_LoginDDT -login button pressed
+11:56:36.073 INFO  TC_001_LoginDDT -login failed : invalid credentials
+12:15:40.987 INFO  TC_001_LoginDDT -Orange site opened
+12:16:38.871 INFO  TC_001_LoginDDT -Orange site opened
+12:17:51.448 INFO  TC_001_LoginDDT -Orange site opened
+12:17:53.707 INFO  TC_001_LoginDDT -username entered
+12:17:53.849 INFO  TC_001_LoginDDT -passeword entered
+12:17:55.507 INFO  TC_001_LoginDDT -login button pressed
+12:17:55.540 INFO  TC_001_LoginDDT -login passed : valid credentials 
+ Myinfo page is not displayed !
+12:17:58.064 INFO  TC_001_LoginDDT -username entered
+12:17:58.343 INFO  TC_001_LoginDDT -passeword entered
+12:17:59.564 INFO  TC_001_LoginDDT -login button pressed
+12:17:59.581 INFO  TC_001_LoginDDT -login failed : invalid credentials
+12:17:59.847 INFO  TC_001_LoginDDT -username entered
+12:18:00.044 INFO  TC_001_LoginDDT -passeword entered
+12:18:00.760 INFO  TC_001_LoginDDT -login button pressed
+12:18:00.804 INFO  TC_001_LoginDDT -login failed : invalid credentials
+12:18:01.072 INFO  TC_001_LoginDDT -username entered
+12:18:01.262 INFO  TC_001_LoginDDT -passeword entered
+12:18:02.398 INFO  TC_001_LoginDDT -login button pressed
+12:18:02.441 INFO  TC_001_LoginDDT -login failed : invalid credentials

@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TestSuite">
+
+	<listeners>
+		<listener class-name="utilities.Reporting" />
+	</listeners>
+	
+	<test name="Test of OrangeHRM">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="testCase.TC_001_LoginDDT"></class>
+		</classes>
+	</test>
+
+</suite>
