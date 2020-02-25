@@ -507,3 +507,42 @@
 12:18:01.262 INFO  TC_001_LoginDDT -passeword entered
 12:18:02.398 INFO  TC_001_LoginDDT -login button pressed
 12:18:02.441 INFO  TC_001_LoginDDT -login failed : invalid credentials
+09:38:15.035 INFO  TC_001_LoginDDT -Orange site opened
+09:38:19.384 INFO  TC_001_LoginDDT -username entered
+09:38:19.604 INFO  TC_001_LoginDDT -passeword entered
+09:38:25.448 INFO  TC_001_LoginDDT -login button pressed
+09:38:26.681 INFO  TC_001_LoginDDT -login passed
+10:08:57.383 INFO  TC_001_LoginDDT -Orange site opened
+10:08:59.085 INFO  TC_001_LoginDDT -username entered
+10:08:59.282 INFO  TC_001_LoginDDT -passeword entered
+10:09:04.291 INFO  TC_001_LoginDDT -login button pressed
+10:09:12.044 INFO  TC_001_LoginDDT -personal details are displayed
+10:11:26.571 INFO  TC_001_LoginDDT -Orange site opened
+10:11:34.093 INFO  TC_001_LoginDDT -username entered
+10:11:34.281 INFO  TC_001_LoginDDT -passeword entered
+10:11:36.107 INFO  TC_001_LoginDDT -login button pressed
+10:11:36.135 INFO  TC_001_LoginDDT -login passed : valid credentials 
+ Myinfo page is not displayed !
+10:11:38.313 INFO  TC_001_LoginDDT -username entered
+10:11:38.470 INFO  TC_001_LoginDDT -passeword entered
+10:11:39.701 INFO  TC_001_LoginDDT -login button pressed
+10:11:39.718 INFO  TC_001_LoginDDT -login failed : invalid credentials
+10:11:39.914 INFO  TC_001_LoginDDT -username entered
+10:11:40.119 INFO  TC_001_LoginDDT -passeword entered
+10:11:40.706 INFO  TC_001_LoginDDT -login button pressed
+10:11:40.736 INFO  TC_001_LoginDDT -login failed : invalid credentials
+10:11:40.975 INFO  TC_001_LoginDDT -username entered
+10:11:41.181 INFO  TC_001_LoginDDT -passeword entered
+10:11:41.744 INFO  TC_001_LoginDDT -login button pressed
+10:11:41.760 INFO  TC_001_LoginDDT -login failed : invalid credentials
+10:11:49.292 INFO  TC_001_LoginDDT -Orange site opened
+10:11:49.519 INFO  TC_001_LoginDDT -username entered
+10:11:49.710 INFO  TC_001_LoginDDT -passeword entered
+10:11:52.389 INFO  TC_001_LoginDDT -login button pressed
+10:11:52.684 INFO  TC_001_LoginDDT -login passed
+10:12:00.065 INFO  TC_001_LoginDDT -Orange site opened
+10:12:00.422 INFO  TC_001_LoginDDT -username entered
+10:12:00.681 INFO  TC_001_LoginDDT -passeword entered
+10:12:02.687 INFO  TC_001_LoginDDT -login button pressed
+10:12:03.989 INFO  TC_001_LoginDDT -My Info tab is clicked
+10:12:04.115 INFO  TC_001_LoginDDT -personal details are displayed

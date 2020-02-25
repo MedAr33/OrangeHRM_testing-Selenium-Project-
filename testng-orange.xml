@@ -4,11 +4,13 @@
 	<listeners>
 		<listener class-name="utilities.Reporting" />
 	</listeners>
-	
+
 	<test name="Test of OrangeHRM">
 		<parameter name="browser" value="chrome" />
 		<classes>
 			<class name="testCase.TC_001_LoginDDT"></class>
+			<class name="testCase.TC_002_Login"></class>
+			<class name="testCase.TC_003_PersonalDetails"></class>
 		</classes>
 	</test>
 

@@ -29,6 +29,9 @@ public class OrangeLoginPage {
 	@FindBy(xpath = "//a[text()='Logout']")
 	WebElement logoutBtn;
 	
+	@FindBy(id = "welcome")
+	WebElement welcome;
+	
 	
 	
 	public void setUsername(String uname) {
@@ -43,6 +46,9 @@ public class OrangeLoginPage {
 	public void clickLogout() {
 		menu.click();
 		logoutBtn.click();
+	}
+	public boolean isWelcomeDisplayed() {
+		return welcome.isDisplayed();
 	}
 	
 }
