@@ -24,13 +24,11 @@ public class Reporting extends TestListenerAdapter {
 	public ExtentTest logger;
 
 	public void onStart(ITestContext testContext) {
-		String timeStamp = new SimpleDateFormat("yyyy.MM.dd.HH.mm.ss").format(new Date());// time stamp
+		String timeStamp = new SimpleDateFormat("yyyy.MM.dd.HH.mm.ss").format(new Date());
 		String repName = "Test-Report-" + timeStamp + ".html";
 
-		htmlReporter = new ExtentHtmlReporter(System.getProperty("user.dir") + "/test-output/" + repName);// specify
-																											// location
-																											// of the
-																											// report
+		htmlReporter = new ExtentHtmlReporter(System.getProperty("user.dir") + "/test-output/" + repName);
+
 		htmlReporter.loadXMLConfig(System.getProperty("user.dir") + "/extent-config.xml");
 
 		extent = new ExtentReports();
@@ -40,24 +38,20 @@ public class Reporting extends TestListenerAdapter {
 		extent.setSystemInfo("Environemnt", "QA");
 		extent.setSystemInfo("user", "MedAr");
 
-		htmlReporter.config().setDocumentTitle("OrangeHRM Test Project"); // Tile of report
-		htmlReporter.config().setReportName("Functional Test Automation Report"); // name of the report
+		htmlReporter.config().setDocumentTitle("OrangeHRM Test Project");
+		htmlReporter.config().setReportName("Functional Test Automation Report");
 		htmlReporter.config().setTheme(Theme.DARK);
 	}
 
 	public void onTestSuccess(ITestResult tr) {
-		logger = extent.createTest(tr.getName()); // create new entry in the report
-		logger.log(Status.PASS, MarkupHelper.createLabel(tr.getName(), ExtentColor.GREEN)); // send the passed
-																							// information to the report
-																							// with GREEN color
-																							// highlighted
+		logger = extent.createTest(tr.getName());
+		logger.log(Status.PASS, MarkupHelper.createLabel(tr.getName(), ExtentColor.GREEN));
+
 	}
 
 	public void onTestFailure(ITestResult tr) {
-		logger = extent.createTest(tr.getName()); // create new entry in th report
-		logger.log(Status.FAIL, MarkupHelper.createLabel(tr.getName(), ExtentColor.RED)); // send the passed information
-																							// to the report with GREEN
-																							// color highlighted
+		logger = extent.createTest(tr.getName());
+		logger.log(Status.FAIL, MarkupHelper.createLabel(tr.getName(), ExtentColor.RED));
 
 		String screenshotPath = System.getProperty("user.dir") + "\\screenshots\\" + tr.getName() + ".png";
 
@@ -74,7 +68,7 @@ public class Reporting extends TestListenerAdapter {
 	}
 
 	public void onTestSkipped(ITestResult tr) {
-		logger = extent.createTest(tr.getName()); // create new entry in th report
+		logger = extent.createTest(tr.getName());
 		logger.log(Status.SKIP, MarkupHelper.createLabel(tr.getName(), ExtentColor.ORANGE));
 	}
 

@@ -3,12 +3,14 @@ package testCase;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
+import pageObject.MyInfoPage;
 import pageObject.OrangeLoginPage;
 
-public class TC_002_Login extends BaseClass {
+public class TC_003_SowPDetails extends BaseClass {
 	@Test
-	public void login() {
+	public void presenceOfPD() {
 		OrangeLoginPage olp = new OrangeLoginPage(driver);
+		MyInfoPage mp = new MyInfoPage(driver);
 
 		olp.setUsername("Testprofile");
 		log.info("username entered");
@@ -17,12 +19,16 @@ public class TC_002_Login extends BaseClass {
 		olp.clickLogin();
 		log.info("login button pressed");
 
-		if (olp.isWelcomeDisplayed()) {
-			log.info("login passed");
+		mp.clickMyInfoTab();
+		log.info("My Info tab is clicked");
+
+		if (mp.isDetailsDisplayed()) {
+			log.info("personal details are displayed");
 			Assert.assertTrue(true);
 		} else {
-			log.info("login failed");
+			log.info("fail : personal details are not displayed");
 			Assert.assertTrue(false);
 		}
+
 	}
 }

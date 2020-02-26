@@ -546,3 +546,469 @@
 10:12:02.687 INFO  TC_001_LoginDDT -login button pressed
 10:12:03.989 INFO  TC_001_LoginDDT -My Info tab is clicked
 10:12:04.115 INFO  TC_001_LoginDDT -personal details are displayed
+10:34:49.701 INFO  TC_001_LoginDDT -Orange site opened
+10:34:50.903 INFO  TC_001_LoginDDT -username entered
+10:34:51.131 INFO  TC_001_LoginDDT -passeword entered
+10:34:56.177 INFO  TC_001_LoginDDT -login button pressed
+10:34:58.768 INFO  TC_001_LoginDDT -My Info tab is clicked
+10:34:59.672 INFO  TC_001_LoginDDT -Personal Details link is clicked
+10:34:59.869 INFO  TC_001_LoginDDT -Edit button is clicked
+10:35:00.144 INFO  TC_001_LoginDDT -First name is modified
+10:35:00.330 INFO  TC_001_LoginDDT -Middle name is modified
+10:35:00.693 INFO  TC_001_LoginDDT -Last name is modified
+10:35:01.712 INFO  TC_001_LoginDDT -License expiry date is modified
+10:35:02.100 INFO  TC_001_LoginDDT -Gender is modified
+10:45:39.010 INFO  TC_001_LoginDDT -Orange site opened
+10:45:39.622 INFO  TC_001_LoginDDT -username entered
+10:45:39.814 INFO  TC_001_LoginDDT -passeword entered
+10:45:42.077 INFO  TC_001_LoginDDT -login button pressed
+10:45:44.089 INFO  TC_001_LoginDDT -My Info tab is clicked
+10:45:46.158 INFO  TC_001_LoginDDT -Personal Details link is clicked
+10:45:46.363 INFO  TC_001_LoginDDT -Edit button is clicked
+10:45:46.879 INFO  TC_001_LoginDDT -First name is modified
+10:45:47.094 INFO  TC_001_LoginDDT -Middle name is modified
+10:45:47.647 INFO  TC_001_LoginDDT -Last name is modified
+10:45:48.256 INFO  TC_001_LoginDDT -License expiry date is modified
+10:45:49.042 INFO  TC_001_LoginDDT -Gender is modified
+10:50:09.512 INFO  TC_001_LoginDDT -Orange site opened
+10:50:10.092 INFO  TC_001_LoginDDT -username entered
+10:50:10.365 INFO  TC_001_LoginDDT -passeword entered
+10:50:12.136 INFO  TC_001_LoginDDT -login button pressed
+10:50:13.486 INFO  TC_001_LoginDDT -My Info tab is clicked
+10:50:14.558 INFO  TC_001_LoginDDT -Personal Details link is clicked
+10:50:14.768 INFO  TC_001_LoginDDT -Edit button is clicked
+10:50:15.151 INFO  TC_001_LoginDDT -First name is modified
+10:50:15.444 INFO  TC_001_LoginDDT -Middle name is modified
+10:50:15.784 INFO  TC_001_LoginDDT -Last name is modified
+10:50:16.679 INFO  TC_001_LoginDDT -License expiry date is modified
+10:50:16.891 INFO  TC_001_LoginDDT -Gender is modified
+10:53:00.090 INFO  TC_001_LoginDDT -Orange site opened
+10:53:00.525 INFO  TC_001_LoginDDT -username entered
+10:53:00.760 INFO  TC_001_LoginDDT -passeword entered
+10:53:03.140 INFO  TC_001_LoginDDT -login button pressed
+10:53:05.179 INFO  TC_001_LoginDDT -My Info tab is clicked
+10:53:06.293 INFO  TC_001_LoginDDT -Personal Details link is clicked
+10:53:06.539 INFO  TC_001_LoginDDT -Edit button is clicked
+10:53:06.954 INFO  TC_001_LoginDDT -First name is modified
+10:53:07.273 INFO  TC_001_LoginDDT -Middle name is modified
+10:53:07.572 INFO  TC_001_LoginDDT -Last name is modified
+10:53:08.295 INFO  TC_001_LoginDDT -License expiry date is modified
+10:53:08.491 INFO  TC_001_LoginDDT -Gender is modified
+11:10:05.392 INFO  TC_001_LoginDDT -Orange site opened
+11:10:06.110 INFO  TC_001_LoginDDT -username entered
+11:10:06.443 INFO  TC_001_LoginDDT -passeword entered
+11:10:07.420 INFO  TC_001_LoginDDT -login button pressed
+11:12:38.029 INFO  TC_001_LoginDDT -Orange site opened
+11:12:38.508 INFO  TC_001_LoginDDT -username entered
+11:12:38.744 INFO  TC_001_LoginDDT -passeword entered
+11:12:40.385 INFO  TC_001_LoginDDT -login button pressed
+11:12:40.510 INFO  TC_001_LoginDDT -My Info tab is clicked
+11:13:26.391 INFO  TC_001_LoginDDT -Orange site opened
+11:13:26.829 INFO  TC_001_LoginDDT -username entered
+11:13:27.131 INFO  TC_001_LoginDDT -passeword entered
+11:13:29.179 INFO  TC_001_LoginDDT -login button pressed
+11:13:30.441 INFO  TC_001_LoginDDT -My Info tab is clicked
+11:13:31.255 INFO  TC_001_LoginDDT -Personal Details link is clicked
+11:13:31.423 INFO  TC_001_LoginDDT -Edit button is clicked
+11:13:31.706 INFO  TC_001_LoginDDT -First name is modified
+11:13:31.939 INFO  TC_001_LoginDDT -Middle name is modified
+11:13:32.189 INFO  TC_001_LoginDDT -Last name is modified
+11:13:32.731 INFO  TC_001_LoginDDT -License expiry date is modified
+11:13:32.887 INFO  TC_001_LoginDDT -Gender is modified
+11:23:45.798 INFO  TC_001_LoginDDT -Orange site opened
+11:23:48.219 INFO  TC_001_LoginDDT -username entered
+11:23:48.428 INFO  TC_001_LoginDDT -passeword entered
+11:23:50.876 INFO  TC_001_LoginDDT -login button pressed
+11:23:52.870 INFO  TC_001_LoginDDT -My Info tab is clicked
+11:23:53.737 INFO  TC_001_LoginDDT -Personal Details link is clicked
+11:23:53.922 INFO  TC_001_LoginDDT -Edit button is clicked
+11:23:54.296 INFO  TC_001_LoginDDT -First name is modified
+11:23:54.574 INFO  TC_001_LoginDDT -Middle name is modified
+11:23:54.846 INFO  TC_001_LoginDDT -Last name is modified
+11:23:55.411 INFO  TC_001_LoginDDT -License expiry date is modified
+11:23:55.623 INFO  TC_001_LoginDDT -Gender is modified
+11:23:55.896 INFO  TC_001_LoginDDT -Marital status is modified
+11:23:56.105 INFO  TC_001_LoginDDT -Nationality is modified
+12:18:34.972 INFO  TC_001_LoginDDT -Orange site opened
+12:18:35.805 INFO  TC_001_LoginDDT -username entered
+12:18:36.016 INFO  TC_001_LoginDDT -passeword entered
+12:18:40.587 INFO  TC_001_LoginDDT -login button pressed
+12:18:45.480 INFO  TC_001_LoginDDT -My Info tab is clicked
+12:18:47.046 INFO  TC_001_LoginDDT -Personal Details link is clicked
+12:18:47.246 INFO  TC_001_LoginDDT -Edit button is clicked
+12:18:47.590 INFO  TC_001_LoginDDT -First name is modified
+12:18:47.861 INFO  TC_001_LoginDDT -Middle name is modified
+12:18:48.143 INFO  TC_001_LoginDDT -Last name is modified
+12:18:48.790 INFO  TC_001_LoginDDT -License expiry date is modified
+12:18:49.698 INFO  TC_001_LoginDDT -Gender is modified
+12:18:50.329 INFO  TC_001_LoginDDT -Marital status is modified
+12:21:29.963 INFO  TC_001_LoginDDT -Orange site opened
+12:21:30.720 INFO  TC_001_LoginDDT -username entered
+12:21:31.156 INFO  TC_001_LoginDDT -passeword entered
+12:21:33.537 INFO  TC_001_LoginDDT -login button pressed
+12:21:35.159 INFO  TC_001_LoginDDT -My Info tab is clicked
+12:21:36.016 INFO  TC_001_LoginDDT -Personal Details link is clicked
+12:21:36.224 INFO  TC_001_LoginDDT -Edit button is clicked
+12:21:36.726 INFO  TC_001_LoginDDT -First name is modified
+12:21:37.078 INFO  TC_001_LoginDDT -Middle name is modified
+12:21:37.356 INFO  TC_001_LoginDDT -Last name is modified
+12:21:38.011 INFO  TC_001_LoginDDT -License expiry date is modified
+12:21:38.175 INFO  TC_001_LoginDDT -Gender is modified
+12:21:38.428 INFO  TC_001_LoginDDT -Marital status is modified
+12:24:10.098 INFO  TC_001_LoginDDT -Orange site opened
+12:24:11.046 INFO  TC_001_LoginDDT -username entered
+12:24:11.361 INFO  TC_001_LoginDDT -passeword entered
+12:24:13.564 INFO  TC_001_LoginDDT -login button pressed
+12:24:14.812 INFO  TC_001_LoginDDT -My Info tab is clicked
+12:24:15.876 INFO  TC_001_LoginDDT -Personal Details link is clicked
+12:24:16.083 INFO  TC_001_LoginDDT -Edit button is clicked
+12:24:16.498 INFO  TC_001_LoginDDT -First name is modified
+12:24:16.852 INFO  TC_001_LoginDDT -Middle name is modified
+12:24:17.148 INFO  TC_001_LoginDDT -Last name is modified
+12:24:17.863 INFO  TC_001_LoginDDT -License expiry date is modified
+12:24:18.060 INFO  TC_001_LoginDDT -Gender is modified
+12:24:18.386 INFO  TC_001_LoginDDT -Marital status is modified
+12:25:32.262 INFO  TC_001_LoginDDT -Orange site opened
+12:25:32.734 INFO  TC_001_LoginDDT -username entered
+12:25:32.935 INFO  TC_001_LoginDDT -passeword entered
+12:25:34.567 INFO  TC_001_LoginDDT -login button pressed
+12:25:34.725 INFO  TC_001_LoginDDT -My Info tab is clicked
+12:26:23.031 INFO  TC_001_LoginDDT -Orange site opened
+12:26:23.483 INFO  TC_001_LoginDDT -username entered
+12:26:23.667 INFO  TC_001_LoginDDT -passeword entered
+12:26:25.959 INFO  TC_001_LoginDDT -login button pressed
+12:26:27.571 INFO  TC_001_LoginDDT -My Info tab is clicked
+12:26:28.347 INFO  TC_001_LoginDDT -Personal Details link is clicked
+12:26:28.548 INFO  TC_001_LoginDDT -Edit button is clicked
+12:26:28.860 INFO  TC_001_LoginDDT -First name is modified
+12:26:29.104 INFO  TC_001_LoginDDT -Middle name is modified
+12:26:29.449 INFO  TC_001_LoginDDT -Last name is modified
+12:26:30.099 INFO  TC_001_LoginDDT -License expiry date is modified
+12:26:30.262 INFO  TC_001_LoginDDT -Gender is modified
+12:27:42.069 INFO  TC_001_LoginDDT -Orange site opened
+12:27:42.959 INFO  TC_001_LoginDDT -username entered
+12:27:43.211 INFO  TC_001_LoginDDT -passeword entered
+12:27:45.000 INFO  TC_001_LoginDDT -login button pressed
+12:27:46.299 INFO  TC_001_LoginDDT -My Info tab is clicked
+12:27:47.156 INFO  TC_001_LoginDDT -Personal Details link is clicked
+12:27:47.334 INFO  TC_001_LoginDDT -Edit button is clicked
+12:27:47.671 INFO  TC_001_LoginDDT -First name is modified
+12:27:47.963 INFO  TC_001_LoginDDT -Middle name is modified
+12:27:48.325 INFO  TC_001_LoginDDT -Last name is modified
+12:27:49.113 INFO  TC_001_LoginDDT -License expiry date is modified
+12:27:49.314 INFO  TC_001_LoginDDT -Gender is modified
+12:29:15.772 INFO  TC_001_LoginDDT -Orange site opened
+12:29:16.286 INFO  TC_001_LoginDDT -username entered
+12:29:16.503 INFO  TC_001_LoginDDT -passeword entered
+12:29:18.180 INFO  TC_001_LoginDDT -login button pressed
+12:29:18.291 INFO  TC_001_LoginDDT -My Info tab is clicked
+12:29:51.500 INFO  TC_001_LoginDDT -Orange site opened
+12:29:51.932 INFO  TC_001_LoginDDT -username entered
+12:29:52.130 INFO  TC_001_LoginDDT -passeword entered
+12:29:54.046 INFO  TC_001_LoginDDT -login button pressed
+12:29:56.228 INFO  TC_001_LoginDDT -My Info tab is clicked
+12:29:57.103 INFO  TC_001_LoginDDT -Personal Details link is clicked
+12:29:57.307 INFO  TC_001_LoginDDT -Edit button is clicked
+12:29:57.728 INFO  TC_001_LoginDDT -First name is modified
+12:29:58.047 INFO  TC_001_LoginDDT -Middle name is modified
+12:29:58.388 INFO  TC_001_LoginDDT -Last name is modified
+12:29:59.215 INFO  TC_001_LoginDDT -License expiry date is modified
+12:29:59.426 INFO  TC_001_LoginDDT -Gender is modified
+12:32:34.838 INFO  TC_001_LoginDDT -Orange site opened
+12:32:35.828 INFO  TC_001_LoginDDT -username entered
+12:32:36.028 INFO  TC_001_LoginDDT -passeword entered
+12:32:37.591 INFO  TC_001_LoginDDT -login button pressed
+12:32:37.755 INFO  TC_001_LoginDDT -My Info tab is clicked
+12:33:07.782 INFO  TC_001_LoginDDT -Orange site opened
+12:33:08.443 INFO  TC_001_LoginDDT -username entered
+12:33:08.879 INFO  TC_001_LoginDDT -passeword entered
+12:33:10.545 INFO  TC_001_LoginDDT -login button pressed
+12:33:10.750 INFO  TC_001_LoginDDT -My Info tab is clicked
+12:33:47.289 INFO  TC_001_LoginDDT -Orange site opened
+12:33:47.767 INFO  TC_001_LoginDDT -username entered
+12:33:48.043 INFO  TC_001_LoginDDT -passeword entered
+12:33:49.984 INFO  TC_001_LoginDDT -login button pressed
+12:33:51.636 INFO  TC_001_LoginDDT -My Info tab is clicked
+12:33:52.960 INFO  TC_001_LoginDDT -Personal Details link is clicked
+12:33:53.164 INFO  TC_001_LoginDDT -Edit button is clicked
+12:33:53.570 INFO  TC_001_LoginDDT -First name is modified
+12:33:53.945 INFO  TC_001_LoginDDT -Middle name is modified
+12:33:54.247 INFO  TC_001_LoginDDT -Last name is modified
+12:33:55.002 INFO  TC_001_LoginDDT -License expiry date is modified
+12:33:55.251 INFO  TC_001_LoginDDT -Gender is modified
+12:38:19.786 INFO  TC_001_LoginDDT -Orange site opened
+12:38:20.363 INFO  TC_001_LoginDDT -username entered
+12:38:20.783 INFO  TC_001_LoginDDT -passeword entered
+12:38:22.872 INFO  TC_001_LoginDDT -login button pressed
+12:38:25.028 INFO  TC_001_LoginDDT -My Info tab is clicked
+12:38:26.322 INFO  TC_001_LoginDDT -Personal Details link is clicked
+12:38:26.599 INFO  TC_001_LoginDDT -Edit button is clicked
+12:38:27.054 INFO  TC_001_LoginDDT -First name is modified
+12:38:27.331 INFO  TC_001_LoginDDT -Middle name is modified
+12:38:27.592 INFO  TC_001_LoginDDT -Last name is modified
+12:38:28.201 INFO  TC_001_LoginDDT -License expiry date is modified
+12:38:28.398 INFO  TC_001_LoginDDT -Gender is modified
+12:41:46.392 INFO  TC_001_LoginDDT -Orange site opened
+12:41:46.822 INFO  TC_001_LoginDDT -username entered
+12:41:47.006 INFO  TC_001_LoginDDT -passeword entered
+12:41:49.805 INFO  TC_001_LoginDDT -login button pressed
+12:41:51.918 INFO  TC_001_LoginDDT -My Info tab is clicked
+12:41:52.792 INFO  TC_001_LoginDDT -Personal Details link is clicked
+12:41:52.969 INFO  TC_001_LoginDDT -Edit button is clicked
+12:41:53.317 INFO  TC_001_LoginDDT -First name is modified
+12:41:53.613 INFO  TC_001_LoginDDT -Middle name is modified
+12:41:53.933 INFO  TC_001_LoginDDT -Last name is modified
+12:41:54.767 INFO  TC_001_LoginDDT -License expiry date is modified
+12:41:55.030 INFO  TC_001_LoginDDT -Gender is modified
+12:59:28.823 INFO  TC_001_LoginDDT -Orange site opened
+12:59:29.289 INFO  TC_001_LoginDDT -username entered
+12:59:29.483 INFO  TC_001_LoginDDT -passeword entered
+12:59:36.133 INFO  TC_001_LoginDDT -login button pressed
+12:59:39.794 INFO  TC_001_LoginDDT -My Info tab is clicked
+12:59:40.979 INFO  TC_001_LoginDDT -Personal Details link is clicked
+12:59:41.148 INFO  TC_001_LoginDDT -Edit button is clicked
+12:59:41.492 INFO  TC_001_LoginDDT -First name is modified
+12:59:41.794 INFO  TC_001_LoginDDT -Middle name is modified
+12:59:42.112 INFO  TC_001_LoginDDT -Last name is modified
+12:59:43.256 INFO  TC_001_LoginDDT -License expiry date is modified
+12:59:43.474 INFO  TC_001_LoginDDT -Gender is modified
+12:59:44.017 INFO  TC_001_LoginDDT -Marital status is modified
+13:00:56.386 INFO  TC_001_LoginDDT -Orange site opened
+13:00:56.866 INFO  TC_001_LoginDDT -username entered
+13:00:57.035 INFO  TC_001_LoginDDT -passeword entered
+13:00:58.481 INFO  TC_001_LoginDDT -login button pressed
+13:02:38.169 INFO  TC_001_LoginDDT -Orange site opened
+13:02:38.583 INFO  TC_001_LoginDDT -username entered
+13:02:38.830 INFO  TC_001_LoginDDT -passeword entered
+13:02:41.047 INFO  TC_001_LoginDDT -login button pressed
+13:02:42.683 INFO  TC_001_LoginDDT -My Info tab is clicked
+13:02:43.579 INFO  TC_001_LoginDDT -Personal Details link is clicked
+13:02:43.803 INFO  TC_001_LoginDDT -Edit button is clicked
+13:02:44.203 INFO  TC_001_LoginDDT -First name is modified
+13:02:44.610 INFO  TC_001_LoginDDT -Middle name is modified
+13:02:45.049 INFO  TC_001_LoginDDT -Last name is modified
+13:02:45.771 INFO  TC_001_LoginDDT -License expiry date is modified
+13:02:45.941 INFO  TC_001_LoginDDT -Gender is modified
+13:02:46.240 INFO  TC_001_LoginDDT -Marital status is modified
+13:02:46.482 INFO  TC_001_LoginDDT -Nationality is modified
+13:02:46.680 INFO  TC_001_LoginDDT -Save button is pressed
+13:04:59.927 INFO  TC_001_LoginDDT -Orange site opened
+13:05:00.487 INFO  TC_001_LoginDDT -username entered
+13:05:00.807 INFO  TC_001_LoginDDT -passeword entered
+13:05:02.588 INFO  TC_001_LoginDDT -login button pressed
+13:05:03.981 INFO  TC_001_LoginDDT -My Info tab is clicked
+13:05:04.888 INFO  TC_001_LoginDDT -Personal Details link is clicked
+13:05:05.087 INFO  TC_001_LoginDDT -Edit button is clicked
+13:05:05.433 INFO  TC_001_LoginDDT -First name is modified
+13:05:05.709 INFO  TC_001_LoginDDT -Middle name is modified
+13:05:06.024 INFO  TC_001_LoginDDT -Last name is modified
+13:05:06.896 INFO  TC_001_LoginDDT -License expiry date is modified
+13:05:07.061 INFO  TC_001_LoginDDT -Gender is modified
+13:05:07.322 INFO  TC_001_LoginDDT -Marital status is modified
+13:05:07.498 INFO  TC_001_LoginDDT -Nationality is modified
+13:05:07.641 INFO  TC_001_LoginDDT -Save button is pressed
+13:14:39.651 INFO  TC_001_LoginDDT -Orange site opened
+13:14:40.096 INFO  TC_001_LoginDDT -username entered
+13:14:40.294 INFO  TC_001_LoginDDT -passeword entered
+13:14:42.400 INFO  TC_001_LoginDDT -login button pressed
+13:14:44.257 INFO  TC_001_LoginDDT -My Info tab is clicked
+13:14:45.219 INFO  TC_001_LoginDDT -Personal Details link is clicked
+13:14:45.413 INFO  TC_001_LoginDDT -Edit button is clicked
+13:14:45.760 INFO  TC_001_LoginDDT -First name is modified
+13:14:46.052 INFO  TC_001_LoginDDT -Middle name is modified
+13:14:46.392 INFO  TC_001_LoginDDT -Last name is modified
+13:14:47.118 INFO  TC_001_LoginDDT -License expiry date is modified
+13:14:47.396 INFO  TC_001_LoginDDT -Gender is modified
+13:14:47.796 INFO  TC_001_LoginDDT -Marital status is modified
+13:14:48.063 INFO  TC_001_LoginDDT -Nationality is modified
+13:14:48.262 INFO  TC_001_LoginDDT -Save button is pressed
+13:16:52.789 INFO  TC_001_LoginDDT -Orange site opened
+13:16:53.339 INFO  TC_001_LoginDDT -username entered
+13:16:53.685 INFO  TC_001_LoginDDT -passeword entered
+13:16:55.477 INFO  TC_001_LoginDDT -login button pressed
+13:16:56.627 INFO  TC_001_LoginDDT -My Info tab is clicked
+13:16:57.374 INFO  TC_001_LoginDDT -Personal Details link is clicked
+13:16:57.512 INFO  TC_001_LoginDDT -Edit button is clicked
+13:16:57.779 INFO  TC_001_LoginDDT -First name is modified
+13:16:57.993 INFO  TC_001_LoginDDT -Middle name is modified
+13:16:58.227 INFO  TC_001_LoginDDT -Last name is modified
+13:16:58.770 INFO  TC_001_LoginDDT -License expiry date is modified
+13:16:58.915 INFO  TC_001_LoginDDT -Gender is modified
+13:16:59.185 INFO  TC_001_LoginDDT -Marital status is modified
+13:16:59.376 INFO  TC_001_LoginDDT -Nationality is modified
+13:16:59.530 INFO  TC_001_LoginDDT -Save button is pressed
+13:19:21.298 INFO  TC_001_LoginDDT -Orange site opened
+13:19:21.896 INFO  TC_001_LoginDDT -username entered
+13:19:22.110 INFO  TC_001_LoginDDT -passeword entered
+13:19:23.902 INFO  TC_001_LoginDDT -login button pressed
+13:19:25.469 INFO  TC_001_LoginDDT -My Info tab is clicked
+13:19:26.276 INFO  TC_001_LoginDDT -Personal Details link is clicked
+13:19:26.485 INFO  TC_001_LoginDDT -Edit button is clicked
+13:19:26.903 INFO  TC_001_LoginDDT -First name is modified
+13:19:27.261 INFO  TC_001_LoginDDT -Middle name is modified
+13:19:27.599 INFO  TC_001_LoginDDT -Last name is modified
+13:19:28.403 INFO  TC_001_LoginDDT -License expiry date is modified
+13:19:28.609 INFO  TC_001_LoginDDT -Gender is modified
+13:19:28.951 INFO  TC_001_LoginDDT -Marital status is modified
+13:19:29.275 INFO  TC_001_LoginDDT -Nationality is modified
+13:19:29.559 INFO  TC_001_LoginDDT -Save button is pressed
+13:21:48.945 INFO  TC_001_LoginDDT -Orange site opened
+13:21:49.455 INFO  TC_001_LoginDDT -username entered
+13:21:49.654 INFO  TC_001_LoginDDT -passeword entered
+13:21:51.576 INFO  TC_001_LoginDDT -login button pressed
+13:21:53.134 INFO  TC_001_LoginDDT -My Info tab is clicked
+13:21:54.007 INFO  TC_001_LoginDDT -Personal Details link is clicked
+13:21:54.225 INFO  TC_001_LoginDDT -Edit button is clicked
+13:21:54.676 INFO  TC_001_LoginDDT -First name is modified
+13:21:55.067 INFO  TC_001_LoginDDT -Middle name is modified
+13:21:55.481 INFO  TC_001_LoginDDT -Last name is modified
+13:21:56.512 INFO  TC_001_LoginDDT -License expiry date is modified
+13:21:56.726 INFO  TC_001_LoginDDT -Gender is modified
+13:21:57.085 INFO  TC_001_LoginDDT -Marital status is modified
+13:21:57.339 INFO  TC_001_LoginDDT -Nationality is modified
+13:21:58.751 INFO  TC_001_LoginDDT -Save button is pressed
+13:21:58.971 INFO  TC_001_LoginDDT -Personal Details are modified and saved successfully
+13:23:05.634 INFO  TC_001_LoginDDT -Orange site opened
+13:23:06.263 INFO  TC_001_LoginDDT -username entered
+13:23:06.535 INFO  TC_001_LoginDDT -passeword entered
+13:23:08.214 INFO  TC_001_LoginDDT -login button pressed
+13:23:08.376 INFO  TC_001_LoginDDT -My Info tab is clicked
+13:23:41.963 INFO  TC_001_LoginDDT -Orange site opened
+13:23:42.418 INFO  TC_001_LoginDDT -username entered
+13:23:42.636 INFO  TC_001_LoginDDT -passeword entered
+13:23:44.324 INFO  TC_001_LoginDDT -login button pressed
+13:23:44.470 INFO  TC_001_LoginDDT -My Info tab is clicked
+13:24:19.528 INFO  TC_001_LoginDDT -Orange site opened
+13:24:19.976 INFO  TC_001_LoginDDT -username entered
+13:24:20.157 INFO  TC_001_LoginDDT -passeword entered
+13:24:21.847 INFO  TC_001_LoginDDT -login button pressed
+13:24:22.031 INFO  TC_001_LoginDDT -My Info tab is clicked
+13:25:07.030 INFO  TC_001_LoginDDT -Orange site opened
+13:25:07.553 INFO  TC_001_LoginDDT -username entered
+13:25:07.787 INFO  TC_001_LoginDDT -passeword entered
+13:25:09.640 INFO  TC_001_LoginDDT -login button pressed
+13:25:10.894 INFO  TC_001_LoginDDT -My Info tab is clicked
+13:25:11.734 INFO  TC_001_LoginDDT -Personal Details link is clicked
+13:25:11.899 INFO  TC_001_LoginDDT -Edit button is clicked
+13:25:12.203 INFO  TC_001_LoginDDT -First name is modified
+13:25:12.438 INFO  TC_001_LoginDDT -Middle name is modified
+13:25:12.694 INFO  TC_001_LoginDDT -Last name is modified
+13:25:13.311 INFO  TC_001_LoginDDT -License expiry date is modified
+13:25:13.492 INFO  TC_001_LoginDDT -Gender is modified
+13:25:13.755 INFO  TC_001_LoginDDT -Marital status is modified
+13:25:13.909 INFO  TC_001_LoginDDT -Nationality is modified
+13:25:15.234 INFO  TC_001_LoginDDT -Save button is pressed
+13:25:15.411 INFO  TC_001_LoginDDT -Personal Details are modified and saved successfully
+14:10:50.071 INFO  TC_001_LoginDDT -Orange site opened
+14:10:58.926 INFO  TC_001_LoginDDT -username entered
+14:10:59.184 INFO  TC_001_LoginDDT -passeword entered
+14:11:01.590 INFO  TC_001_LoginDDT -login button pressed
+14:11:01.616 INFO  TC_001_LoginDDT -login passed : valid credentials 
+ Myinfo page is not displayed !
+14:11:03.740 INFO  TC_001_LoginDDT -username entered
+14:11:03.879 INFO  TC_001_LoginDDT -passeword entered
+14:11:05.114 INFO  TC_001_LoginDDT -login button pressed
+14:11:05.130 INFO  TC_001_LoginDDT -login failed : invalid credentials
+14:11:05.402 INFO  TC_001_LoginDDT -username entered
+14:11:05.591 INFO  TC_001_LoginDDT -passeword entered
+14:11:06.284 INFO  TC_001_LoginDDT -login button pressed
+14:11:06.323 INFO  TC_001_LoginDDT -login failed : invalid credentials
+14:11:06.509 INFO  TC_001_LoginDDT -username entered
+14:11:06.689 INFO  TC_001_LoginDDT -passeword entered
+14:11:07.414 INFO  TC_001_LoginDDT -login button pressed
+14:11:07.441 INFO  TC_001_LoginDDT -login failed : invalid credentials
+14:11:16.180 INFO  TC_001_LoginDDT -Orange site opened
+14:11:16.459 INFO  TC_001_LoginDDT -username entered
+14:11:16.619 INFO  TC_001_LoginDDT -passeword entered
+14:11:18.343 INFO  TC_001_LoginDDT -login button pressed
+14:11:18.554 INFO  TC_001_LoginDDT -login passed
+14:11:25.975 INFO  TC_001_LoginDDT -Orange site opened
+14:11:27.149 INFO  TC_001_LoginDDT -username entered
+14:11:27.435 INFO  TC_001_LoginDDT -passeword entered
+14:11:31.789 INFO  TC_001_LoginDDT -login button pressed
+14:11:36.474 INFO  TC_001_LoginDDT -My Info tab is clicked
+14:11:36.640 INFO  TC_001_LoginDDT -personal details are displayed
+14:11:45.945 INFO  TC_001_LoginDDT -Orange site opened
+14:11:46.317 INFO  TC_001_LoginDDT -username entered
+14:11:46.648 INFO  TC_001_LoginDDT -passeword entered
+14:11:48.495 INFO  TC_001_LoginDDT -login button pressed
+14:11:48.712 INFO  TC_001_LoginDDT -My Info tab is clicked
+14:18:11.323 INFO  TC_001_LoginDDT -Orange site opened
+14:18:13.966 INFO  TC_001_LoginDDT -username entered
+14:18:14.119 INFO  TC_001_LoginDDT -passeword entered
+14:18:15.868 INFO  TC_001_LoginDDT -login button pressed
+14:18:15.921 INFO  TC_001_LoginDDT -login passed : valid credentials 
+ Myinfo page is not displayed !
+14:18:18.185 INFO  TC_001_LoginDDT -username entered
+14:18:18.401 INFO  TC_001_LoginDDT -passeword entered
+14:18:19.940 INFO  TC_001_LoginDDT -login button pressed
+14:18:19.954 INFO  TC_001_LoginDDT -login failed : invalid credentials
+14:18:20.153 INFO  TC_001_LoginDDT -username entered
+14:18:20.334 INFO  TC_001_LoginDDT -passeword entered
+14:18:21.104 INFO  TC_001_LoginDDT -login button pressed
+14:18:21.151 INFO  TC_001_LoginDDT -login failed : invalid credentials
+14:18:21.418 INFO  TC_001_LoginDDT -username entered
+14:18:21.629 INFO  TC_001_LoginDDT -passeword entered
+14:18:22.375 INFO  TC_001_LoginDDT -login button pressed
+14:18:22.401 INFO  TC_001_LoginDDT -login failed : invalid credentials
+14:18:33.239 INFO  TC_001_LoginDDT -Orange site opened
+14:18:33.562 INFO  TC_001_LoginDDT -username entered
+14:18:33.858 INFO  TC_001_LoginDDT -passeword entered
+14:18:35.827 INFO  TC_001_LoginDDT -login button pressed
+14:18:35.987 INFO  TC_001_LoginDDT -login passed
+14:18:44.960 INFO  TC_001_LoginDDT -Orange site opened
+14:18:45.435 INFO  TC_001_LoginDDT -username entered
+14:18:45.811 INFO  TC_001_LoginDDT -passeword entered
+14:18:48.238 INFO  TC_001_LoginDDT -login button pressed
+14:18:50.061 INFO  TC_001_LoginDDT -My Info tab is clicked
+14:18:50.182 INFO  TC_001_LoginDDT -personal details are displayed
+14:18:59.804 INFO  TC_001_LoginDDT -Orange site opened
+14:19:00.090 INFO  TC_001_LoginDDT -username entered
+14:19:00.294 INFO  TC_001_LoginDDT -passeword entered
+14:19:02.308 INFO  TC_001_LoginDDT -login button pressed
+14:19:02.516 INFO  TC_001_LoginDDT -My Info tab is clicked
+14:21:41.815 INFO  TC_001_LoginDDT -Orange site opened
+14:21:44.325 INFO  TC_001_LoginDDT -username entered
+14:21:44.501 INFO  TC_001_LoginDDT -passeword entered
+14:21:46.197 INFO  TC_001_LoginDDT -login button pressed
+14:21:46.223 INFO  TC_001_LoginDDT -login passed : valid credentials 
+ Myinfo page is not displayed !
+14:21:48.348 INFO  TC_001_LoginDDT -username entered
+14:21:48.510 INFO  TC_001_LoginDDT -passeword entered
+14:21:49.708 INFO  TC_001_LoginDDT -login button pressed
+14:21:49.726 INFO  TC_001_LoginDDT -login failed : invalid credentials
+14:21:50.002 INFO  TC_001_LoginDDT -username entered
+14:21:50.178 INFO  TC_001_LoginDDT -passeword entered
+14:21:50.877 INFO  TC_001_LoginDDT -login button pressed
+14:21:50.928 INFO  TC_001_LoginDDT -login failed : invalid credentials
+14:21:51.151 INFO  TC_001_LoginDDT -username entered
+14:21:51.346 INFO  TC_001_LoginDDT -passeword entered
+14:21:52.424 INFO  TC_001_LoginDDT -login button pressed
+14:21:52.467 INFO  TC_001_LoginDDT -login failed : invalid credentials
+14:22:00.157 INFO  TC_001_LoginDDT -Orange site opened
+14:22:00.432 INFO  TC_001_LoginDDT -username entered
+14:22:00.662 INFO  TC_001_LoginDDT -passeword entered
+14:22:02.562 INFO  TC_001_LoginDDT -login button pressed
+14:22:02.798 INFO  TC_001_LoginDDT -login passed
+14:22:10.227 INFO  TC_001_LoginDDT -Orange site opened
+14:22:11.751 INFO  TC_001_LoginDDT -username entered
+14:22:12.224 INFO  TC_001_LoginDDT -passeword entered
+14:22:14.332 INFO  TC_001_LoginDDT -login button pressed
+14:22:16.763 INFO  TC_001_LoginDDT -My Info tab is clicked
+14:22:16.897 INFO  TC_001_LoginDDT -personal details are displayed
+14:22:24.689 INFO  TC_001_LoginDDT -Orange site opened
+14:22:24.972 INFO  TC_001_LoginDDT -username entered
+14:22:25.179 INFO  TC_001_LoginDDT -passeword entered
+14:22:27.079 INFO  TC_001_LoginDDT -login button pressed
+14:22:28.737 INFO  TC_001_LoginDDT -My Info tab is clicked
+14:22:30.123 INFO  TC_001_LoginDDT -Personal Details link is clicked
+14:22:30.306 INFO  TC_001_LoginDDT -Edit button is clicked
+14:22:30.688 INFO  TC_001_LoginDDT -First name is modified
+14:22:30.966 INFO  TC_001_LoginDDT -Middle name is modified
+14:22:31.259 INFO  TC_001_LoginDDT -Last name is modified
+14:22:31.873 INFO  TC_001_LoginDDT -License expiry date is modified
+14:22:32.045 INFO  TC_001_LoginDDT -Gender is modified
+14:22:32.264 INFO  TC_001_LoginDDT -Marital status is modified
+14:22:32.384 INFO  TC_001_LoginDDT -Nationality is modified
+14:22:33.492 INFO  TC_001_LoginDDT -Save button is pressed
+14:22:33.638 INFO  TC_001_LoginDDT -Personal Details are modified and saved successfully

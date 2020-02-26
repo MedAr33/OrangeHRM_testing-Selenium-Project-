@@ -10,7 +10,8 @@
 		<classes>
 			<class name="testCase.TC_001_LoginDDT"></class>
 			<class name="testCase.TC_002_Login"></class>
-			<class name="testCase.TC_003_PersonalDetails"></class>
+			<class name="testCase.TC_003_SowPDetails"></class>
+			<class name="testCase.TC_004_EditPDetails"></class>
 		</classes>
 	</test>
 

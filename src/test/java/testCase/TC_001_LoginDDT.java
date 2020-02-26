@@ -23,24 +23,23 @@ public class TC_001_LoginDDT extends BaseClass {
 		log.info("login button pressed");
 
 		if (!driver.getCurrentUrl().contains("https://opensource-demo.orangehrmlive.com/index.php/auth/")) {
-			if (driver.getCurrentUrl().equals("https://opensource-demo.orangehrmlive.com/index.php/pim/viewMyDetails")) {
+			if (driver.getCurrentUrl()
+					.equals("https://opensource-demo.orangehrmlive.com/index.php/pim/viewMyDetails")) {
 				log.info("login passed : valid credentials \n Myinfo paged is played");
 				olp.clickLogout();
 				Assert.assertTrue(true);
-			}else {
+			} else {
 				log.info("login passed : valid credentials \n Myinfo page is not displayed !");
 				captureScreen(driver, "loginDDT");
 				olp.clickLogout();
 				Assert.assertTrue(false);
 			}
-			
-		}else {
+
+		} else {
 			log.info("login failed : invalid credentials");
 			Assert.assertTrue(true);
-			
+
 		}
-			
-		
 
 	}
 
