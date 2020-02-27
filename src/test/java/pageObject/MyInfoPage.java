@@ -1,9 +1,13 @@
 package pageObject;
 
+import java.io.IOException;
 import java.util.List;
+
+
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.ExpectedConditions;
@@ -57,9 +61,27 @@ public class MyInfoPage {
 
 	@FindBy(xpath = "//div[@class='message success fadable']")
 	WebElement saveSuccessMsg;
-
+	
+	@FindBy(id = "empPic")
+	WebElement photograph;
+	
+	@FindBy(id = "photofile")
+	WebElement addFileBtn;
+	
+	@FindBy(id = "btnSave")
+	WebElement uploadBtn;
+	
+	@FindBy(xpath = "//div[@class='message success fadable']")
+	WebElement warningMsg;
+	
+	
+	
+	
 	public void waitForVisibility(WebElement element) {
 		new WebDriverWait(driver, 10).until(ExpectedConditions.visibilityOf(element));
+	}
+	public void waitToBeClickabale(WebElement element) {
+		new WebDriverWait(driver, 10).until(ExpectedConditions.elementToBeClickable(element));
 	}
 
 	public void clickMyInfoTab() {
@@ -125,6 +147,23 @@ public class MyInfoPage {
 	public boolean isSaveSuccessMsgDisplayed() {
 		waitForVisibility(saveSuccessMsg);
 		return saveSuccessMsg.isDisplayed();
+	}
+	public void clickPhotoCorner() {
+		photograph.click();
+	}
+	
+	public void addPhotograph() throws IOException {
+		Actions action = new Actions(driver);
+		action.moveToElement(addFileBtn).click().perform();
+		Runtime.getRuntime().exec(System.getProperty("user.dir")+"\\AutoIT\\upload500mo.exe");
+	}
+	public void clickUploadBtn() {
+		waitToBeClickabale(uploadBtn);
+		uploadBtn.click();
+	}
+	public String getWarningMsg() {
+		waitForVisibility(warningMsg);
+		return warningMsg.getText();
 	}
 
 }

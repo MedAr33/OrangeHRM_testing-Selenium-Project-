@@ -12,6 +12,7 @@
 			<class name="testCase.TC_002_Login"></class>
 			<class name="testCase.TC_003_SowPDetails"></class>
 			<class name="testCase.TC_004_EditPDetails"></class>
+			<class name="testCase.TC_005_AddPhotograph"></class>
 		</classes>
 	</test>
 

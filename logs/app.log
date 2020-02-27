@@ -1012,3 +1012,389 @@
 14:22:32.384 INFO  TC_001_LoginDDT -Nationality is modified
 14:22:33.492 INFO  TC_001_LoginDDT -Save button is pressed
 14:22:33.638 INFO  TC_001_LoginDDT -Personal Details are modified and saved successfully
+10:40:40.912 INFO  TC_001_LoginDDT -Orange site opened
+10:40:42.665 INFO  TC_001_LoginDDT -username entered
+10:40:42.874 INFO  TC_001_LoginDDT -passeword entered
+10:40:46.963 INFO  TC_001_LoginDDT -login button pressed
+10:40:48.947 INFO  TC_001_LoginDDT -My Info tab is clicked
+10:43:47.869 INFO  TC_001_LoginDDT -Orange site opened
+10:43:48.309 INFO  TC_001_LoginDDT -username entered
+10:43:48.526 INFO  TC_001_LoginDDT -passeword entered
+10:43:50.788 INFO  TC_001_LoginDDT -login button pressed
+10:43:52.362 INFO  TC_001_LoginDDT -My Info tab is clicked
+10:47:12.877 INFO  TC_001_LoginDDT -Orange site opened
+10:47:13.392 INFO  TC_001_LoginDDT -username entered
+10:47:13.683 INFO  TC_001_LoginDDT -passeword entered
+10:47:15.246 INFO  TC_001_LoginDDT -login button pressed
+10:47:16.473 INFO  TC_001_LoginDDT -My Info tab is clicked
+10:49:07.320 INFO  TC_001_LoginDDT -Orange site opened
+10:49:07.965 INFO  TC_001_LoginDDT -username entered
+10:49:08.296 INFO  TC_001_LoginDDT -passeword entered
+10:49:10.959 INFO  TC_001_LoginDDT -login button pressed
+10:49:13.634 INFO  TC_001_LoginDDT -My Info tab is clicked
+10:51:33.110 INFO  TC_001_LoginDDT -Orange site opened
+10:51:33.590 INFO  TC_001_LoginDDT -username entered
+10:51:33.844 INFO  TC_001_LoginDDT -passeword entered
+10:51:35.898 INFO  TC_001_LoginDDT -login button pressed
+10:51:37.267 INFO  TC_001_LoginDDT -My Info tab is clicked
+10:53:26.502 INFO  TC_001_LoginDDT -Orange site opened
+10:53:26.982 INFO  TC_001_LoginDDT -username entered
+10:53:27.169 INFO  TC_001_LoginDDT -passeword entered
+10:53:29.344 INFO  TC_001_LoginDDT -login button pressed
+10:53:30.740 INFO  TC_001_LoginDDT -My Info tab is clicked
+11:02:09.613 INFO  TC_001_LoginDDT -Orange site opened
+11:02:10.039 INFO  TC_001_LoginDDT -username entered
+11:02:10.216 INFO  TC_001_LoginDDT -passeword entered
+11:02:11.188 INFO  TC_001_LoginDDT -login button pressed
+11:11:11.056 INFO  TC_001_LoginDDT -Orange site opened
+11:11:11.666 INFO  TC_001_LoginDDT -username entered
+11:11:11.849 INFO  TC_001_LoginDDT -passeword entered
+11:11:14.305 INFO  TC_001_LoginDDT -login button pressed
+11:11:15.878 INFO  TC_001_LoginDDT -My Info tab is clicked
+11:11:16.890 INFO  TC_001_LoginDDT -photo in the corner clicked
+11:12:29.816 INFO  TC_001_LoginDDT -Orange site opened
+11:12:30.333 INFO  TC_001_LoginDDT -username entered
+11:12:30.619 INFO  TC_001_LoginDDT -passeword entered
+11:12:32.322 INFO  TC_001_LoginDDT -login button pressed
+11:12:33.986 INFO  TC_001_LoginDDT -My Info tab is clicked
+11:12:34.774 INFO  TC_001_LoginDDT -photo in the corner clicked
+11:24:21.513 INFO  TC_001_LoginDDT -Orange site opened
+11:24:22.045 INFO  TC_001_LoginDDT -username entered
+11:24:22.316 INFO  TC_001_LoginDDT -passeword entered
+11:24:24.332 INFO  TC_001_LoginDDT -login button pressed
+11:24:25.652 INFO  TC_001_LoginDDT -My Info tab is clicked
+11:24:26.399 INFO  TC_001_LoginDDT -photo in the corner clicked
+11:27:48.980 INFO  TC_001_LoginDDT -Orange site opened
+11:27:49.556 INFO  TC_001_LoginDDT -username entered
+11:27:49.861 INFO  TC_001_LoginDDT -passeword entered
+11:27:51.792 INFO  TC_001_LoginDDT -login button pressed
+11:27:53.171 INFO  TC_001_LoginDDT -My Info tab is clicked
+11:27:54.244 INFO  TC_001_LoginDDT -photo in the corner clicked
+11:29:31.164 INFO  TC_001_LoginDDT -Orange site opened
+11:29:31.706 INFO  TC_001_LoginDDT -username entered
+11:29:31.929 INFO  TC_001_LoginDDT -passeword entered
+11:29:34.279 INFO  TC_001_LoginDDT -login button pressed
+11:29:35.913 INFO  TC_001_LoginDDT -My Info tab is clicked
+11:29:37.146 INFO  TC_001_LoginDDT -photo in the corner clicked
+11:34:29.869 INFO  TC_001_LoginDDT -Orange site opened
+11:34:30.853 INFO  TC_001_LoginDDT -username entered
+11:34:31.158 INFO  TC_001_LoginDDT -passeword entered
+11:34:33.420 INFO  TC_001_LoginDDT -login button pressed
+11:34:36.094 INFO  TC_001_LoginDDT -My Info tab is clicked
+11:34:36.928 INFO  TC_001_LoginDDT -photo in the corner clicked
+11:37:07.568 INFO  TC_001_LoginDDT -Orange site opened
+11:37:08.082 INFO  TC_001_LoginDDT -username entered
+11:37:08.277 INFO  TC_001_LoginDDT -passeword entered
+11:37:10.061 INFO  TC_001_LoginDDT -login button pressed
+11:37:10.241 INFO  TC_001_LoginDDT -My Info tab is clicked
+11:38:00.527 INFO  TC_001_LoginDDT -Orange site opened
+11:38:01.043 INFO  TC_001_LoginDDT -username entered
+11:38:01.349 INFO  TC_001_LoginDDT -passeword entered
+11:38:03.352 INFO  TC_001_LoginDDT -login button pressed
+11:38:05.903 INFO  TC_001_LoginDDT -My Info tab is clicked
+11:38:06.820 INFO  TC_001_LoginDDT -photo in the corner clicked
+11:39:03.501 INFO  TC_001_LoginDDT -Orange site opened
+11:39:04.042 INFO  TC_001_LoginDDT -username entered
+11:39:04.266 INFO  TC_001_LoginDDT -passeword entered
+11:39:06.153 INFO  TC_001_LoginDDT -login button pressed
+11:39:07.693 INFO  TC_001_LoginDDT -My Info tab is clicked
+11:39:08.662 INFO  TC_001_LoginDDT -photo in the corner clicked
+11:40:09.407 INFO  TC_001_LoginDDT -Orange site opened
+11:40:09.869 INFO  TC_001_LoginDDT -username entered
+11:40:10.130 INFO  TC_001_LoginDDT -passeword entered
+11:40:12.167 INFO  TC_001_LoginDDT -login button pressed
+11:40:13.736 INFO  TC_001_LoginDDT -My Info tab is clicked
+11:40:14.771 INFO  TC_001_LoginDDT -photo in the corner clicked
+11:42:50.884 INFO  TC_001_LoginDDT -Orange site opened
+11:42:51.312 INFO  TC_001_LoginDDT -username entered
+11:42:51.515 INFO  TC_001_LoginDDT -passeword entered
+11:42:53.358 INFO  TC_001_LoginDDT -login button pressed
+11:42:54.735 INFO  TC_001_LoginDDT -My Info tab is clicked
+11:42:55.499 INFO  TC_001_LoginDDT -photo in the corner clicked
+11:47:49.344 INFO  TC_001_LoginDDT -Orange site opened
+11:47:50.003 INFO  TC_001_LoginDDT -username entered
+11:47:50.394 INFO  TC_001_LoginDDT -passeword entered
+11:47:52.015 INFO  TC_001_LoginDDT -login button pressed
+11:47:53.415 INFO  TC_001_LoginDDT -My Info tab is clicked
+11:47:54.266 INFO  TC_001_LoginDDT -photo in the corner clicked
+11:52:16.645 INFO  TC_001_LoginDDT -Orange site opened
+11:52:17.240 INFO  TC_001_LoginDDT -username entered
+11:52:17.527 INFO  TC_001_LoginDDT -passeword entered
+11:52:19.095 INFO  TC_001_LoginDDT -login button pressed
+11:52:20.245 INFO  TC_001_LoginDDT -My Info tab is clicked
+11:52:21.225 INFO  TC_001_LoginDDT -photo in the corner clicked
+11:54:08.906 INFO  TC_001_LoginDDT -Orange site opened
+11:54:09.464 INFO  TC_001_LoginDDT -username entered
+11:54:09.802 INFO  TC_001_LoginDDT -passeword entered
+11:54:11.448 INFO  TC_001_LoginDDT -login button pressed
+11:54:11.610 INFO  TC_001_LoginDDT -My Info tab is clicked
+11:55:05.202 INFO  TC_001_LoginDDT -Orange site opened
+11:55:05.688 INFO  TC_001_LoginDDT -username entered
+11:55:05.961 INFO  TC_001_LoginDDT -passeword entered
+11:55:07.743 INFO  TC_001_LoginDDT -login button pressed
+11:55:07.911 INFO  TC_001_LoginDDT -My Info tab is clicked
+11:57:33.541 INFO  TC_001_LoginDDT -Orange site opened
+11:57:33.982 INFO  TC_001_LoginDDT -username entered
+11:57:34.180 INFO  TC_001_LoginDDT -passeword entered
+11:57:36.159 INFO  TC_001_LoginDDT -login button pressed
+11:57:37.445 INFO  TC_001_LoginDDT -My Info tab is clicked
+11:57:38.265 INFO  TC_001_LoginDDT -photo in the corner clicked
+11:57:39.330 INFO  TC_001_LoginDDT -personal details link clicked
+11:57:39.538 INFO  TC_001_LoginDDT -upload button clicked
+11:59:03.565 INFO  TC_001_LoginDDT -Orange site opened
+11:59:04.246 INFO  TC_001_LoginDDT -username entered
+11:59:04.565 INFO  TC_001_LoginDDT -passeword entered
+11:59:06.450 INFO  TC_001_LoginDDT -login button pressed
+11:59:08.244 INFO  TC_001_LoginDDT -My Info tab is clicked
+11:59:09.122 INFO  TC_001_LoginDDT -photo in the corner clicked
+12:06:01.585 INFO  TC_001_LoginDDT -Orange site opened
+12:06:02.204 INFO  TC_001_LoginDDT -username entered
+12:06:02.533 INFO  TC_001_LoginDDT -passeword entered
+12:06:04.185 INFO  TC_001_LoginDDT -login button pressed
+12:06:04.339 INFO  TC_001_LoginDDT -My Info tab is clicked
+12:06:45.946 INFO  TC_001_LoginDDT -Orange site opened
+12:06:46.383 INFO  TC_001_LoginDDT -username entered
+12:06:46.578 INFO  TC_001_LoginDDT -passeword entered
+12:06:48.490 INFO  TC_001_LoginDDT -login button pressed
+12:06:49.912 INFO  TC_001_LoginDDT -My Info tab is clicked
+12:06:51.123 INFO  TC_001_LoginDDT -photo in the corner clicked
+12:29:25.431 INFO  TC_001_LoginDDT -Orange site opened
+12:29:25.803 INFO  TC_001_LoginDDT -username entered
+12:29:25.977 INFO  TC_001_LoginDDT -passeword entered
+12:29:28.584 INFO  TC_001_LoginDDT -login button pressed
+12:29:30.645 INFO  TC_001_LoginDDT -My Info tab is clicked
+12:29:32.441 INFO  TC_001_LoginDDT -photo in the corner clicked
+12:31:41.766 INFO  TC_001_LoginDDT -Orange site opened
+12:31:42.423 INFO  TC_001_LoginDDT -username entered
+12:31:42.712 INFO  TC_001_LoginDDT -passeword entered
+12:31:44.926 INFO  TC_001_LoginDDT -login button pressed
+12:31:47.335 INFO  TC_001_LoginDDT -My Info tab is clicked
+12:31:48.365 INFO  TC_001_LoginDDT -photo in the corner clicked
+12:31:48.519 INFO  TC_001_LoginDDT -add file clicked
+12:32:01.512 INFO  TC_001_LoginDDT -upload button clicked
+12:32:01.622 INFO  TC_001_LoginDDT -photograph failed to upload : test failed
+12:39:30.988 INFO  TC_001_LoginDDT -Orange site opened
+12:39:31.693 INFO  TC_001_LoginDDT -username entered
+12:39:32.067 INFO  TC_001_LoginDDT -passeword entered
+12:39:34.174 INFO  TC_001_LoginDDT -login button pressed
+12:39:37.239 INFO  TC_001_LoginDDT -My Info tab is clicked
+12:39:38.197 INFO  TC_001_LoginDDT -photo in the corner clicked
+12:39:38.471 INFO  TC_001_LoginDDT -add file clicked
+12:39:44.604 INFO  TC_001_LoginDDT -photograph 1mb added
+12:39:44.823 INFO  TC_001_LoginDDT -upload button clicked
+12:43:27.233 INFO  TC_001_LoginDDT -Orange site opened
+12:43:27.694 INFO  TC_001_LoginDDT -username entered
+12:43:27.933 INFO  TC_001_LoginDDT -passeword entered
+12:43:29.969 INFO  TC_001_LoginDDT -login button pressed
+12:43:31.484 INFO  TC_001_LoginDDT -My Info tab is clicked
+12:43:32.248 INFO  TC_001_LoginDDT -photo in the corner clicked
+12:43:32.602 INFO  TC_001_LoginDDT -photograph 1mb added
+12:43:32.807 INFO  TC_001_LoginDDT -upload button clicked
+12:46:26.538 INFO  TC_001_LoginDDT -Orange site opened
+12:46:26.941 INFO  TC_001_LoginDDT -username entered
+12:46:27.111 INFO  TC_001_LoginDDT -passeword entered
+12:46:29.350 INFO  TC_001_LoginDDT -login button pressed
+12:46:30.660 INFO  TC_001_LoginDDT -My Info tab is clicked
+12:46:31.489 INFO  TC_001_LoginDDT -photo in the corner clicked
+12:46:31.743 INFO  TC_001_LoginDDT -photograph 1mb added
+12:46:31.937 INFO  TC_001_LoginDDT -upload button clicked
+12:49:34.279 INFO  TC_001_LoginDDT -Orange site opened
+12:49:34.910 INFO  TC_001_LoginDDT -username entered
+12:49:35.190 INFO  TC_001_LoginDDT -passeword entered
+12:49:37.108 INFO  TC_001_LoginDDT -login button pressed
+12:49:38.460 INFO  TC_001_LoginDDT -My Info tab is clicked
+12:49:39.330 INFO  TC_001_LoginDDT -photo in the corner clicked
+12:49:43.077 INFO  TC_001_LoginDDT -photograph 1mb added
+12:49:43.451 INFO  TC_001_LoginDDT -upload button clicked
+12:56:30.606 INFO  TC_001_LoginDDT -Orange site opened
+12:56:31.035 INFO  TC_001_LoginDDT -username entered
+12:56:31.329 INFO  TC_001_LoginDDT -passeword entered
+12:56:33.110 INFO  TC_001_LoginDDT -login button pressed
+12:56:33.320 INFO  TC_001_LoginDDT -My Info tab is clicked
+12:57:17.861 INFO  TC_001_LoginDDT -Orange site opened
+12:57:18.459 INFO  TC_001_LoginDDT -username entered
+12:57:18.824 INFO  TC_001_LoginDDT -passeword entered
+12:57:20.483 INFO  TC_001_LoginDDT -login button pressed
+12:57:20.632 INFO  TC_001_LoginDDT -My Info tab is clicked
+12:59:17.903 INFO  TC_001_LoginDDT -Orange site opened
+12:59:18.340 INFO  TC_001_LoginDDT -username entered
+12:59:18.527 INFO  TC_001_LoginDDT -passeword entered
+12:59:20.391 INFO  TC_001_LoginDDT -login button pressed
+12:59:20.571 INFO  TC_001_LoginDDT -My Info tab is clicked
+13:18:41.166 INFO  TC_001_LoginDDT -Orange site opened
+13:18:41.358 INFO  TC_001_LoginDDT -username entered
+13:18:41.454 INFO  TC_001_LoginDDT -passeword entered
+13:18:42.200 INFO  TC_001_LoginDDT -login button pressed
+13:20:06.755 INFO  TC_001_LoginDDT -Orange site opened
+13:20:07.257 INFO  TC_001_LoginDDT -username entered
+13:20:07.440 INFO  TC_001_LoginDDT -passeword entered
+13:20:09.218 INFO  TC_001_LoginDDT -login button pressed
+13:20:09.351 INFO  TC_001_LoginDDT -My Info tab is clicked
+13:21:00.653 INFO  TC_001_LoginDDT -Orange site opened
+13:21:01.071 INFO  TC_001_LoginDDT -username entered
+13:21:01.274 INFO  TC_001_LoginDDT -passeword entered
+13:21:03.240 INFO  TC_001_LoginDDT -login button pressed
+13:21:04.483 INFO  TC_001_LoginDDT -My Info tab is clicked
+13:21:05.272 INFO  TC_001_LoginDDT -photo in the corner clicked
+13:21:05.640 INFO  TC_001_LoginDDT -photograph 1mb added
+13:21:06.428 INFO  TC_001_LoginDDT -upload button clicked
+13:22:23.619 INFO  TC_001_LoginDDT -Orange site opened
+13:22:24.146 INFO  TC_001_LoginDDT -username entered
+13:22:24.408 INFO  TC_001_LoginDDT -passeword entered
+13:22:26.058 INFO  TC_001_LoginDDT -login button pressed
+13:22:27.254 INFO  TC_001_LoginDDT -My Info tab is clicked
+13:22:27.923 INFO  TC_001_LoginDDT -photo in the corner clicked
+13:22:28.139 INFO  TC_001_LoginDDT -photograph 1mb added
+13:22:28.550 INFO  TC_001_LoginDDT -upload button clicked
+13:24:05.549 INFO  TC_001_LoginDDT -Orange site opened
+13:24:05.927 INFO  TC_001_LoginDDT -username entered
+13:24:06.140 INFO  TC_001_LoginDDT -passeword entered
+13:24:20.199 INFO  TC_001_LoginDDT -login button pressed
+13:24:26.684 INFO  TC_001_LoginDDT -My Info tab is clicked
+13:24:34.471 INFO  TC_001_LoginDDT -photo in the corner clicked
+13:24:34.729 INFO  TC_001_LoginDDT -photograph 1mb added
+13:24:35.198 INFO  TC_001_LoginDDT -upload button clicked
+13:26:36.743 INFO  TC_001_LoginDDT -Orange site opened
+13:27:38.099 INFO  TC_001_LoginDDT -Orange site opened
+13:27:38.695 INFO  TC_001_LoginDDT -username entered
+13:27:38.930 INFO  TC_001_LoginDDT -passeword entered
+13:27:39.727 INFO  TC_001_LoginDDT -login button pressed
+15:48:18.638 INFO  TC_001_LoginDDT -Orange site opened
+15:48:19.036 INFO  TC_001_LoginDDT -username entered
+15:48:19.213 INFO  TC_001_LoginDDT -passeword entered
+15:48:23.294 INFO  TC_001_LoginDDT -login button pressed
+15:48:25.218 INFO  TC_001_LoginDDT -My Info tab is clicked
+15:48:26.028 INFO  TC_001_LoginDDT -photo in the corner clicked
+15:48:26.570 INFO  TC_001_LoginDDT -photograph 1mb added
+15:50:12.149 INFO  TC_001_LoginDDT -Orange site opened
+15:50:12.609 INFO  TC_001_LoginDDT -username entered
+15:50:12.882 INFO  TC_001_LoginDDT -passeword entered
+15:50:14.968 INFO  TC_001_LoginDDT -login button pressed
+15:50:17.632 INFO  TC_001_LoginDDT -My Info tab is clicked
+15:50:19.580 INFO  TC_001_LoginDDT -photo in the corner clicked
+15:50:26.098 INFO  TC_001_LoginDDT -photograph 1mb added
+15:50:38.591 INFO  TC_001_LoginDDT -upload button clicked
+15:54:26.658 INFO  TC_001_LoginDDT -Orange site opened
+15:54:27.137 INFO  TC_001_LoginDDT -username entered
+15:54:27.351 INFO  TC_001_LoginDDT -passeword entered
+15:54:30.767 INFO  TC_001_LoginDDT -login button pressed
+15:54:37.869 INFO  TC_001_LoginDDT -My Info tab is clicked
+15:54:38.726 INFO  TC_001_LoginDDT -photo in the corner clicked
+15:54:42.750 INFO  TC_001_LoginDDT -photograph 1mb added
+15:54:52.995 INFO  TC_001_LoginDDT -upload button clicked
+15:54:53.203 INFO  TC_001_LoginDDT -photograph failed to upload : test failed
+15:56:29.882 INFO  TC_001_LoginDDT -Orange site opened
+15:56:30.303 INFO  TC_001_LoginDDT -username entered
+15:56:30.531 INFO  TC_001_LoginDDT -passeword entered
+15:56:32.363 INFO  TC_001_LoginDDT -login button pressed
+15:56:36.920 INFO  TC_001_LoginDDT -My Info tab is clicked
+15:56:37.802 INFO  TC_001_LoginDDT -photo in the corner clicked
+15:56:41.282 INFO  TC_001_LoginDDT -photograph 1mb added
+15:56:52.552 INFO  TC_001_LoginDDT -upload button clicked
+15:56:52.914 INFO  TC_001_LoginDDT -photograph failed to upload : test failed
+15:58:24.468 INFO  TC_001_LoginDDT -Orange site opened
+15:58:24.910 INFO  TC_001_LoginDDT -username entered
+15:58:25.115 INFO  TC_001_LoginDDT -passeword entered
+15:58:27.227 INFO  TC_001_LoginDDT -login button pressed
+15:58:31.157 INFO  TC_001_LoginDDT -My Info tab is clicked
+15:58:32.014 INFO  TC_001_LoginDDT -photo in the corner clicked
+15:58:35.268 INFO  TC_001_LoginDDT -photograph 1mb added
+15:58:46.721 INFO  TC_001_LoginDDT -upload button clicked
+15:58:47.051 INFO  TC_001_LoginDDT -photograph failed to upload : test failed
+16:01:17.607 INFO  TC_001_LoginDDT -Orange site opened
+16:01:18.061 INFO  TC_001_LoginDDT -username entered
+16:01:18.282 INFO  TC_001_LoginDDT -passeword entered
+16:01:19.977 INFO  TC_001_LoginDDT -login button pressed
+16:01:20.195 INFO  TC_001_LoginDDT -My Info tab is clicked
+16:02:06.741 INFO  TC_001_LoginDDT -Orange site opened
+16:02:07.157 INFO  TC_001_LoginDDT -username entered
+16:02:07.397 INFO  TC_001_LoginDDT -passeword entered
+16:02:09.172 INFO  TC_001_LoginDDT -login button pressed
+16:02:13.734 INFO  TC_001_LoginDDT -My Info tab is clicked
+16:02:14.751 INFO  TC_001_LoginDDT -photo in the corner clicked
+16:14:47.131 INFO  TC_001_LoginDDT -Orange site opened
+16:14:50.097 INFO  TC_001_LoginDDT -username entered
+16:14:50.219 INFO  TC_001_LoginDDT -passeword entered
+16:14:54.183 INFO  TC_001_LoginDDT -login button pressed
+16:15:02.630 INFO  TC_001_LoginDDT -My Info tab is clicked
+16:15:06.503 INFO  TC_001_LoginDDT -photo in the corner clicked
+16:15:18.265 INFO  TC_001_LoginDDT -photograph 1mb added
+16:15:27.830 INFO  TC_001_LoginDDT -upload button clicked
+16:15:28.046 INFO  TC_001_LoginDDT -photograph <1mb uploaded : test succeed
+16:16:26.885 INFO  TC_001_LoginDDT -Orange site opened
+16:16:28.688 INFO  TC_001_LoginDDT -username entered
+16:16:28.959 INFO  TC_001_LoginDDT -passeword entered
+16:16:33.139 INFO  TC_001_LoginDDT -login button pressed
+16:16:37.912 INFO  TC_001_LoginDDT -My Info tab is clicked
+16:16:39.735 INFO  TC_001_LoginDDT -photo in the corner clicked
+16:16:42.981 INFO  TC_001_LoginDDT -photograph 1mb added
+16:19:16.395 INFO  TC_001_LoginDDT -Orange site opened
+16:19:18.485 INFO  TC_001_LoginDDT -username entered
+16:19:18.663 INFO  TC_001_LoginDDT -passeword entered
+16:19:21.067 INFO  TC_001_LoginDDT -login button pressed
+16:19:24.647 INFO  TC_001_LoginDDT -My Info tab is clicked
+16:19:25.859 INFO  TC_001_LoginDDT -photo in the corner clicked
+16:19:38.385 INFO  TC_001_LoginDDT -photograph 1mb added
+16:19:51.036 INFO  TC_001_LoginDDT -upload button clicked
+16:19:51.422 INFO  TC_001_LoginDDT -photograph <1mb uploaded : test succeed
+16:22:12.250 INFO  TC_001_LoginDDT -Orange site opened
+16:22:12.761 INFO  TC_001_LoginDDT -username entered
+16:22:12.979 INFO  TC_001_LoginDDT -passeword entered
+16:22:14.902 INFO  TC_001_LoginDDT -login button pressed
+16:22:17.951 INFO  TC_001_LoginDDT -My Info tab is clicked
+16:22:18.841 INFO  TC_001_LoginDDT -photo in the corner clicked
+16:22:27.781 INFO  TC_001_LoginDDT -photograph 1mb added
+16:25:27.448 INFO  TC_001_LoginDDT -Orange site opened
+16:25:33.642 INFO  TC_001_LoginDDT -username entered
+16:25:33.837 INFO  TC_001_LoginDDT -passeword entered
+16:25:35.979 INFO  TC_001_LoginDDT -login button pressed
+16:25:36.024 INFO  TC_001_LoginDDT -login passed : valid credentials 
+ Myinfo page is not displayed !
+16:25:38.361 INFO  TC_001_LoginDDT -username entered
+16:25:38.530 INFO  TC_001_LoginDDT -passeword entered
+16:25:39.742 INFO  TC_001_LoginDDT -login button pressed
+16:25:39.756 INFO  TC_001_LoginDDT -login failed : invalid credentials
+16:25:39.988 INFO  TC_001_LoginDDT -username entered
+16:25:40.200 INFO  TC_001_LoginDDT -passeword entered
+16:25:40.916 INFO  TC_001_LoginDDT -login button pressed
+16:25:40.958 INFO  TC_001_LoginDDT -login failed : invalid credentials
+16:25:41.204 INFO  TC_001_LoginDDT -username entered
+16:25:41.409 INFO  TC_001_LoginDDT -passeword entered
+16:25:42.136 INFO  TC_001_LoginDDT -login button pressed
+16:25:42.166 INFO  TC_001_LoginDDT -login failed : invalid credentials
+16:25:50.056 INFO  TC_001_LoginDDT -Orange site opened
+16:25:50.447 INFO  TC_001_LoginDDT -username entered
+16:25:51.132 INFO  TC_001_LoginDDT -passeword entered
+16:25:52.826 INFO  TC_001_LoginDDT -login button pressed
+16:25:53.038 INFO  TC_001_LoginDDT -login passed
+16:26:00.219 INFO  TC_001_LoginDDT -Orange site opened
+16:26:00.587 INFO  TC_001_LoginDDT -username entered
+16:26:00.841 INFO  TC_001_LoginDDT -passeword entered
+16:26:03.295 INFO  TC_001_LoginDDT -login button pressed
+16:26:06.433 INFO  TC_001_LoginDDT -My Info tab is clicked
+16:26:06.616 INFO  TC_001_LoginDDT -personal details are displayed
+16:26:14.704 INFO  TC_001_LoginDDT -Orange site opened
+16:26:15.096 INFO  TC_001_LoginDDT -username entered
+16:26:15.377 INFO  TC_001_LoginDDT -passeword entered
+16:26:17.492 INFO  TC_001_LoginDDT -login button pressed
+16:26:20.726 INFO  TC_001_LoginDDT -My Info tab is clicked
+16:26:22.186 INFO  TC_001_LoginDDT -Personal Details link is clicked
+16:26:22.406 INFO  TC_001_LoginDDT -Edit button is clicked
+16:26:22.817 INFO  TC_001_LoginDDT -First name is modified
+16:26:23.131 INFO  TC_001_LoginDDT -Middle name is modified
+16:26:23.456 INFO  TC_001_LoginDDT -Last name is modified
+16:26:24.239 INFO  TC_001_LoginDDT -License expiry date is modified
+16:26:24.487 INFO  TC_001_LoginDDT -Gender is modified
+16:26:24.881 INFO  TC_001_LoginDDT -Marital status is modified
+16:26:25.139 INFO  TC_001_LoginDDT -Nationality is modified
+16:26:26.762 INFO  TC_001_LoginDDT -Save button is pressed
+16:26:26.956 INFO  TC_001_LoginDDT -Personal Details are modified and saved successfully
+16:26:34.158 INFO  TC_001_LoginDDT -Orange site opened
+16:26:34.492 INFO  TC_001_LoginDDT -username entered
+16:26:34.689 INFO  TC_001_LoginDDT -passeword entered
+16:26:36.665 INFO  TC_001_LoginDDT -login button pressed
+16:26:39.582 INFO  TC_001_LoginDDT -My Info tab is clicked
+16:26:40.519 INFO  TC_001_LoginDDT -photo in the corner clicked
+16:26:45.271 INFO  TC_001_LoginDDT -photograph 1mb added
+16:26:56.695 INFO  TC_001_LoginDDT -upload button clicked
+16:26:56.859 INFO  TC_001_LoginDDT -photograph <1mb uploaded : test succeed

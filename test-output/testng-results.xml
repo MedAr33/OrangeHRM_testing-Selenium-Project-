@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="1" ignored="0" total="7" passed="6">
+<testng-results skipped="0" failed="1" ignored="0" total="8" passed="7">
   <reporter-output>
   </reporter-output>
-  <suite name="TestSuite" duration-ms="61367" started-at="2020-02-26T14:21:33 CET" finished-at="2020-02-26T14:22:34 CET">
+  <suite name="TestSuite" duration-ms="102204" started-at="2020-02-27T16:25:15 CET" finished-at="2020-02-27T16:26:57 CET">
     <groups>
     </groups>
-    <test name="Test of OrangeHRM" duration-ms="61367" started-at="2020-02-26T14:21:33 CET" finished-at="2020-02-26T14:22:34 CET">
+    <test name="Test of OrangeHRM" duration-ms="102204" started-at="2020-02-27T16:25:15 CET" finished-at="2020-02-27T16:26:57 CET">
       <class name="testCase.TC_001_LoginDDT">
-        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:testCase.TC_001_LoginDDT@131ef10]" name="setUp" is-config="true" duration-ms="8363" started-at="2020-02-26T14:21:33 CET" finished-at="2020-02-26T14:21:41 CET">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:testCase.TC_001_LoginDDT@55b0dcab]" name="setUp" is-config="true" duration-ms="11821" started-at="2020-02-27T16:25:15 CET" finished-at="2020-02-27T16:25:27 CET">
           <params>
             <param index="0">
               <value>
@@ -18,7 +18,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="FAIL" signature="loginDDT(java.lang.String, java.lang.String)[pri:0, instance:testCase.TC_001_LoginDDT@131ef10]" name="loginDDT" duration-ms="4165" started-at="2020-02-26T14:21:43 CET" data-provider="LoginData" finished-at="2020-02-26T14:21:48 CET">
+        <test-method status="FAIL" signature="loginDDT(java.lang.String, java.lang.String)[pri:0, instance:testCase.TC_001_LoginDDT@55b0dcab]" name="loginDDT" duration-ms="5046" started-at="2020-02-27T16:25:33 CET" data-provider="LoginData" finished-at="2020-02-27T16:25:38 CET">
           <params>
             <param index="0">
               <value>
@@ -76,7 +76,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginDDT -->
-        <test-method status="PASS" signature="loginDDT(java.lang.String, java.lang.String)[pri:0, instance:testCase.TC_001_LoginDDT@131ef10]" name="loginDDT" duration-ms="1516" started-at="2020-02-26T14:21:48 CET" data-provider="LoginData" finished-at="2020-02-26T14:21:49 CET">
+        <test-method status="PASS" signature="loginDDT(java.lang.String, java.lang.String)[pri:0, instance:testCase.TC_001_LoginDDT@55b0dcab]" name="loginDDT" duration-ms="1547" started-at="2020-02-27T16:25:38 CET" data-provider="LoginData" finished-at="2020-02-27T16:25:39 CET">
           <params>
             <param index="0">
               <value>
@@ -92,7 +92,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginDDT -->
-        <test-method status="PASS" signature="loginDDT(java.lang.String, java.lang.String)[pri:0, instance:testCase.TC_001_LoginDDT@131ef10]" name="loginDDT" duration-ms="1193" started-at="2020-02-26T14:21:49 CET" data-provider="LoginData" finished-at="2020-02-26T14:21:50 CET">
+        <test-method status="PASS" signature="loginDDT(java.lang.String, java.lang.String)[pri:0, instance:testCase.TC_001_LoginDDT@55b0dcab]" name="loginDDT" duration-ms="1198" started-at="2020-02-27T16:25:39 CET" data-provider="LoginData" finished-at="2020-02-27T16:25:40 CET">
           <params>
             <param index="0">
               <value>
@@ -108,7 +108,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginDDT -->
-        <test-method status="PASS" signature="loginDDT(java.lang.String, java.lang.String)[pri:0, instance:testCase.TC_001_LoginDDT@131ef10]" name="loginDDT" duration-ms="1533" started-at="2020-02-26T14:21:50 CET" data-provider="LoginData" finished-at="2020-02-26T14:21:52 CET">
+        <test-method status="PASS" signature="loginDDT(java.lang.String, java.lang.String)[pri:0, instance:testCase.TC_001_LoginDDT@55b0dcab]" name="loginDDT" duration-ms="1188" started-at="2020-02-27T16:25:40 CET" data-provider="LoginData" finished-at="2020-02-27T16:25:42 CET">
           <params>
             <param index="0">
               <value>
@@ -124,13 +124,13 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginDDT -->
-        <test-method status="PASS" signature="afterClass()[pri:0, instance:testCase.TC_001_LoginDDT@131ef10]" name="afterClass" is-config="true" duration-ms="727" started-at="2020-02-26T14:21:52 CET" finished-at="2020-02-26T14:21:53 CET">
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:testCase.TC_001_LoginDDT@55b0dcab]" name="afterClass" is-config="true" duration-ms="955" started-at="2020-02-27T16:25:42 CET" finished-at="2020-02-27T16:25:43 CET">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
       </class> <!-- testCase.TC_001_LoginDDT -->
       <class name="testCase.TC_002_Login">
-        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:testCase.TC_002_Login@55b0dcab]" name="setUp" is-config="true" duration-ms="6956" started-at="2020-02-26T14:21:53 CET" finished-at="2020-02-26T14:22:00 CET">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:testCase.TC_002_Login@38afe297]" name="setUp" is-config="true" duration-ms="6921" started-at="2020-02-27T16:25:43 CET" finished-at="2020-02-27T16:25:50 CET">
           <params>
             <param index="0">
               <value>
@@ -141,17 +141,17 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="login()[pri:0, instance:testCase.TC_002_Login@55b0dcab]" name="login" duration-ms="2640" started-at="2020-02-26T14:22:00 CET" finished-at="2020-02-26T14:22:02 CET">
+        <test-method status="PASS" signature="login()[pri:0, instance:testCase.TC_002_Login@38afe297]" name="login" duration-ms="2980" started-at="2020-02-27T16:25:50 CET" finished-at="2020-02-27T16:25:53 CET">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method status="PASS" signature="afterClass()[pri:0, instance:testCase.TC_002_Login@55b0dcab]" name="afterClass" is-config="true" duration-ms="801" started-at="2020-02-26T14:22:02 CET" finished-at="2020-02-26T14:22:03 CET">
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:testCase.TC_002_Login@38afe297]" name="afterClass" is-config="true" duration-ms="803" started-at="2020-02-27T16:25:53 CET" finished-at="2020-02-27T16:25:53 CET">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
       </class> <!-- testCase.TC_002_Login -->
       <class name="testCase.TC_004_EditPDetails">
-        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:testCase.TC_004_EditPDetails@2df3b89c]" name="setUp" is-config="true" duration-ms="7013" started-at="2020-02-26T14:22:17 CET" finished-at="2020-02-26T14:22:24 CET">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:testCase.TC_004_EditPDetails@23348b5d]" name="setUp" is-config="true" duration-ms="6384" started-at="2020-02-27T16:26:08 CET" finished-at="2020-02-27T16:26:14 CET">
           <params>
             <param index="0">
               <value>
@@ -162,17 +162,17 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="editPDetails()[pri:0, instance:testCase.TC_004_EditPDetails@2df3b89c]" name="editPDetails" duration-ms="8946" started-at="2020-02-26T14:22:24 CET" finished-at="2020-02-26T14:22:33 CET">
+        <test-method status="PASS" signature="editPDetails()[pri:0, instance:testCase.TC_004_EditPDetails@23348b5d]" name="editPDetails" duration-ms="12251" started-at="2020-02-27T16:26:14 CET" finished-at="2020-02-27T16:26:26 CET">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- editPDetails -->
-        <test-method status="PASS" signature="afterClass()[pri:0, instance:testCase.TC_004_EditPDetails@2df3b89c]" name="afterClass" is-config="true" duration-ms="927" started-at="2020-02-26T14:22:33 CET" finished-at="2020-02-26T14:22:34 CET">
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:testCase.TC_004_EditPDetails@23348b5d]" name="afterClass" is-config="true" duration-ms="755" started-at="2020-02-27T16:26:26 CET" finished-at="2020-02-27T16:26:27 CET">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
       </class> <!-- testCase.TC_004_EditPDetails -->
       <class name="testCase.TC_003_SowPDetails">
-        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:testCase.TC_003_SowPDetails@38afe297]" name="setUp" is-config="true" duration-ms="6626" started-at="2020-02-26T14:22:03 CET" finished-at="2020-02-26T14:22:10 CET">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:testCase.TC_003_SowPDetails@2df3b89c]" name="setUp" is-config="true" duration-ms="6375" started-at="2020-02-27T16:25:53 CET" finished-at="2020-02-27T16:26:00 CET">
           <params>
             <param index="0">
               <value>
@@ -183,15 +183,36 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="presenceOfPD()[pri:0, instance:testCase.TC_003_SowPDetails@38afe297]" name="presenceOfPD" duration-ms="6668" started-at="2020-02-26T14:22:10 CET" finished-at="2020-02-26T14:22:16 CET">
+        <test-method status="PASS" signature="presenceOfPD()[pri:0, instance:testCase.TC_003_SowPDetails@2df3b89c]" name="presenceOfPD" duration-ms="6397" started-at="2020-02-27T16:26:00 CET" finished-at="2020-02-27T16:26:06 CET">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- presenceOfPD -->
-        <test-method status="PASS" signature="afterClass()[pri:0, instance:testCase.TC_003_SowPDetails@38afe297]" name="afterClass" is-config="true" duration-ms="775" started-at="2020-02-26T14:22:16 CET" finished-at="2020-02-26T14:22:17 CET">
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:testCase.TC_003_SowPDetails@2df3b89c]" name="afterClass" is-config="true" duration-ms="1700" started-at="2020-02-27T16:26:06 CET" finished-at="2020-02-27T16:26:08 CET">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
       </class> <!-- testCase.TC_003_SowPDetails -->
+      <class name="testCase.TC_005_AddPhotograph">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:testCase.TC_005_AddPhotograph@70325e14]" name="setUp" is-config="true" duration-ms="6443" started-at="2020-02-27T16:26:27 CET" finished-at="2020-02-27T16:26:34 CET">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="uploadPhotograph()[pri:0, instance:testCase.TC_005_AddPhotograph@70325e14]" name="uploadPhotograph" duration-ms="22702" started-at="2020-02-27T16:26:34 CET" finished-at="2020-02-27T16:26:56 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- uploadPhotograph -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:testCase.TC_005_AddPhotograph@70325e14]" name="afterClass" is-config="true" duration-ms="777" started-at="2020-02-27T16:26:56 CET" finished-at="2020-02-27T16:26:57 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- testCase.TC_005_AddPhotograph -->
     </test> <!-- Test of OrangeHRM -->
   </suite> <!-- TestSuite -->
 </testng-results>
